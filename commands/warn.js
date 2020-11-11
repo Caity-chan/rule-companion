@@ -15,7 +15,6 @@ module.exports = {
       var ees = message.guild.id;
       const warning = warningsliced.join(' ');
       if(warning === '') {
-        //message.channel.send(user + " has been warned for `no reason given`!");
         const warn = {  
           name: `${user}`,
           warning: `no reason given`,
@@ -23,11 +22,6 @@ module.exports = {
         }
         warning = `no reason given`
         warnse.push(warn);
-        //warns.insert(warn, function(err, docs) {  
-        //docs.forEach(function(d) {
-        //console.log('Saved user warn:', d.name)
-        //})
-        //})
       } else {
         
         const warn = {  

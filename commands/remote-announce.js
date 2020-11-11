@@ -1,6 +1,3 @@
-
-//const Discord = require('discord.js');
-//const client = new Discord.Client();
 const fs = require('fs');
 
 module.exports = {
@@ -42,9 +39,6 @@ module.exports = {
       readLines(input, func);
     }
     
-    //let channel = '770518378015883275';
-    //channel.send('hi');
 	},
 };
 
-//client.login('NzY2MDEzNzM0Mjc4NzkxMjAw.X4dL4g.bqHsWbBJ7oPDMGq3ue4Y6C-tgYc');

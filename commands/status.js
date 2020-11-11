@@ -1,5 +1,5 @@
 const fs = require('fs');
-//const { client } = require(`${__dirname}/../index.js`);
+
 module.exports = {
   name: 'status',
   description: 'set bot status!',

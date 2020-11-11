@@ -1,5 +1,3 @@
-//const Discord = require('discord.js');
-//const client = new Discord.Client();
 const Datastore = require('nedb')
 const warns = new Datastore('./misc/warns.db');
 
@@ -17,11 +15,9 @@ module.exports = {
       var ees = message.guild.id;
       var warning = warningsliced.join(' ');
       let warnings = ''
-	  	warns.find({ name: user, guild: message.guild.id }, function (err, docs) { 
-        //warnings = warnings + ", " + doc.warning
+	  	warns.find({ name: user, guild: message.guild.id }, function (err, docs) {
         message.channel.send(docs.warning);
         docs.forEach(function(d) {
-          //warnings = warnings + `\n${d}`
           var myJSON = JSON.stringify(d.warning);
           console.log(user)
           const users = user;
@@ -43,5 +39,3 @@ module.exports = {
     }
 	},
 };
-
-//client.login('NzY2MDEzNzM0Mjc4NzkxMjAw.X4dL4g.bqHsWbBJ7oPDMGq3ue4Y6C-tgYc');

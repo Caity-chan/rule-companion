@@ -17,3 +17,24 @@
           */
 
           
+           
+        //warnings = warnings + ", " + doc.warning
+        
+          //warnings = warnings + `\n${d}`
+
+
+          
+    //let channel = '770518378015883275';
+    //channel.send('hi');
+
+    //const { client } = require(`${__dirname}/../index.js`);
+
+    
+        //message.channel.send(user + " has been warned for `no reason given`!");
+
+        
+        //warns.insert(warn, function(err, docs) {  
+        //docs.forEach(function(d) {
+        //console.log('Saved user warn:', d.name)
+        //})
+        //})
