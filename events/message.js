@@ -46,11 +46,9 @@ module.exports = {
 	const args = message.content.slice(prefix.length).trim().split(/ +/);
 	const command = args.shift().toLowerCase();
 
-  //blacklistedMembers = [''];
   meminput = fs.createReadStream('./misc/blacklist/blacklistedMembers.txt');
   readLines(meminput, checkMem);
 
-  //blacklistedGuilds = [''];
   input = fs.createReadStream('./misc/blacklist/blacklistedGuilds.txt');
   readLines(input, func);
 

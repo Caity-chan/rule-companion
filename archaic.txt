@@ -38,3 +38,8 @@
         //console.log('Saved user warn:', d.name)
         //})
         //})
+
+        
+  //blacklistedMembers = [''];
+  
+  //blacklistedGuilds = [''];
