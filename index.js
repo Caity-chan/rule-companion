@@ -13,7 +13,7 @@ client.events = new Discord.Collection();
 //client.events = new Discord.Collection();
 /*
 client.once('ready', () => {
-	console.log('Ready!');
+	console.log('Ready!');testes
   client.user.setActivity('rcc.help');
   client.channels.cache.get("772624622657994792").send(`Bot is now online!`);
   fs.appendFile(logpath, "\n [Bot] Ready!", function (err) {
