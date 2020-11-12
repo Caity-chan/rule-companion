@@ -3,9 +3,9 @@ module.exports = {
 	description: 'fibonacci!',
 	execute(message, args, client) {
     // fibonacci = 1 2 3 5 8 13 21 34 55 89....
-    na = args[0];
-    nb = args[1];
-    seconds = args[2];
+    na = parseInt(args[0]);
+    nb = parseInt(args[1]);
+    seconds = parseInt(args[2]);
     //message.channel.send(na);
     function F(na, nb, seconds){
       setTimeout(function() {

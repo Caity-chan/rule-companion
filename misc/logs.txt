@@ -556,3 +556,6 @@ rcc.contact : loops all the channel IDs in that .txt file and sends the message 
  [Guild.765786259444072468.member.563980783828860944] help <>
  [Bot] Ready!
  [Guild.765786259444072468.member.563980783828860944] fibonacci <1 2 3>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 60>
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 1>
