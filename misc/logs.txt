@@ -552,3 +552,7 @@ rcc.contact : loops all the channel IDs in that .txt file and sends the message 
  [Bot] Ready!
  [Bot] Ready!
  [Bot] Joined a new guild: COLI BARENG BRO
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <1 2 3>
