@@ -5,12 +5,13 @@ module.exports = {
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
       var ees = message.guild.id;
+      message.channel.send(args.join(' '));
 	  	fs.appendFile(`./serverrules/${ees}.txt`, args.join(' '), function (err) {
         if (err) throw err;
         console.log('Updated!');
       });
     } else {
-      return message.channel.send(`${message.author}` + " You do not have insufficient permissions! Required permissions: `ADMINISTRATOR`")
+      return message.channel.send(`${message.author}` + " You have insufficient permissions! Required permissions: `ADMINISTRATOR`")
     }
 	},
 };

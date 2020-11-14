@@ -41,7 +41,7 @@ module.exports = {
       
       
     } else {
-      return message.channel.send(`${message.author}` + " You do not have insufficient permissions! Required permissions: `ADMINISTRATOR`")
+      return message.channel.send(`${message.author}` + " You have insufficient permissions! Required permissions: `ADMINISTRATOR`")
     }
 	},
 };

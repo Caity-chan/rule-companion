@@ -559,3 +559,231 @@ rcc.contact : loops all the channel IDs in that .txt file and sends the message 
  [Bot] Ready!
  [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 60>
  [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 1>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 1>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 60>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <2971215073 4807526976 60>
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] member-count <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] member-count <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] member-count <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <MISC>
+ [Guild.765786259444072468.member.563980783828860944] help <misc>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <misc>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <misc>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <misc>
+ [Guild.765786259444072468.member.563980783828860944] help <MISC>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 1>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 2>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 2>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] decode <this is a test>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] encode <this is a test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] encode <this is a test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] encode <this is a test>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] encode <this is a test>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] encode <this is a test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] encode <this is a test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] encode <this is a test>
+ [Guild.765786259444072468.member.563980783828860944] decode <01110100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01100001 00100000 01110100 01100101 01110011 01110100>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] decode <01110100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01100001 00100000 01110100 01100101 01110011 01110100>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 1>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 1>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 1>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 1>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fibonacci <0 1 1>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] encode <test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] encode <test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] decode <01110100 01100101 01110011 01110100>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] announce <testestestest>
+ [Guild.765786259444072468.member.563980783828860944] edit <776950446719369216>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] announce <test>
+ [Guild.765786259444072468.member.563980783828860944] edit <776951069569056778>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] edit <776951069569056778 elkjfa;wklef>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] edit <776951069569056778 elkjfa;wklef>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] edit <776951069569056778 elkjfa;wklef>
+ [Guild.765786259444072468.member.563980783828860944] purge <5>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] edit <776951069569056778 this is a test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] edit <776951069569056778 this is a test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] edit <776951069569056778 this is a test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] announce <test>
+ [Guild.765786259444072468.member.563980783828860944] edit <776997317344624652 this is a test>
+ [Guild.765786259444072468.member.563980783828860944] purge <4>
+ [Guild.765786259444072468.member.563980783828860944] purge <3>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] first-rule <test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule <777011506666930177 test2>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] rules <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule <test>
+ [Guild.765786259444072468.member.563980783828860944] post <>
+ [Guild.765786259444072468.member.563980783828860944] announce <Added `rcc.add-rule-by-id` so you can immediately add the rule to a message already sent by the bot, by using the message ID>
+ [Guild.765786259444072468.member.563980783828860944] announce <`rcc.add-rule` is still an available command if you just wanna `rcc.post` it all afterwards>
+ [Guild.765786259444072468.member.563980783828860944] announce <`rcc.post` has been fixed>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=7dQnVdfmYuQ>
+ [Guild.765786259444072468.member.396892476360884224] dl-vid <https://www.youtube.com/watch?v=xyCG_KlD20w>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.396892476360884224] dl-vid <https://www.youtube.com/watch?v=xyCG_KlD20w>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.396892476360884224] dl-vid <https://www.youtube.com/watch?v=xyCG_KlD20w>
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=mFrDCIPi08g>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=mFrDCIPi08g>
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=mFrDCIPi08g>
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=dtqF-5e1p9w>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=dtqF-5e1p9w>
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=mFrDCIPi08g>
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=aavkSiDVomw>
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=DDTIGs3TP0Q>
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=etLraEaqQSE>
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=aJFubqyiOew>
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=jcL6j81FOgs>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] test <https://www.youtube.com/watch?v=aJFubqyiOew
+https://www.youtube.com/watch?v=jcL6j81FOgs>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] test <https://www.youtube.com/watch?v=aJFubqyiOew
+https://www.youtube.com/watch?v=jcL6j81FOgs>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] test <https://www.youtube.com/watch?v=aJFubqyiOew
+https://www.youtube.com/watch?v=jcL6j81FOgs>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=aJFubqyiOew https://www.youtube.com/watch?v=jcL6j81FOgs https://www.youtube.com/watch?v=VJRyWIlICHg https://www.youtube.com/watch?v=1M1FCA316Cs https://www.youtube.com/watch?v=XEcWNJNaBZU https://www.youtube.com/watch?v=U8CGNfXkm3Y https://www.youtube.com/watch?v=dxPXbT63oQQ https://www.youtube.com/watch?v=1u9kELBKni8 https://www.youtube.com/watch?v=iy13sHesKcY https://www.youtube.com/watch?v=bzfji4lF5Jk https://www.youtube.com/watch?v=dz5_o3nGcAY https://www.youtube.com/watch?v=JSiEe1wIh-Q https://www.youtube.com/watch?v=iVWnjecUIKg https://www.youtube.com/watch?v=H4eLv1y76PI https://www.youtube.com/watch?v=JMwMPxbk7eE https://www.youtube.com/watch?v=73X4PM7f_p8 https://www.youtube.com/watch?v=FDZ6sKc3RPc https://www.youtube.com/watch?v=ASUYvYuAOaw https://www.youtube.com/watch?v=82cBLH8Ub4w https://www.youtube.com/watch?v=5fWTRJQ_x0M https://www.youtube.com/watch?v=X6B7He1lpbg https://www.youtube.com/watch?v=LO-aL87N6R4 https://www.youtube.com/watch?v=i9_AJgQuQxc https://www.youtube.com/watch?v=cMLycdzPN-s https://www.youtube.com/watch?v=Ja52ST9Pj6w https://www.youtube.com/watch?v=cugiSuHV6xI https://www.youtube.com/watch?v=5gtlBRNHIug https://www.youtube.com/watch?v=x-nUXjbuBhQ https://www.youtube.com/watch?v=_DF2Q54LqOw https://www.youtube.com/watch?v=SwIOr_81bm4 https://www.youtube.com/watch?v=lMEd3pWyVCg https://www.youtube.com/watch?v=mSLM4z_NiEc https://www.youtube.com/watch?v=gfHTj5P2w6Y https://www.youtube.com/watch?v=FtF7nwfZ3f4 https://www.youtube.com/watch?v=xCrxONw_rQQ https://www.youtube.com/watch?v=99OSiSEXUBc https://www.youtube.com/watch?v=2F1EavpUKF0 https://www.youtube.com/watch?v=regu58_H8ek https://www.youtube.com/watch?v=Dyn-CIxhvbI https://www.youtube.com/watch?v=I08zRN2BdS8 https://www.youtube.com/watch?v=1cWihyL1hCM https://www.youtube.com/watch?v=w61-romCWv0 https://www.youtube.com/watch?v=mZzMjsWEWIM https://www.youtube.com/watch?v=eMp3Yrj6Yfw>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=aJFubqyiOew
+https://www.youtube.com/watch?v=jcL6j81FOgs
+https://www.youtube.com/watch?v=VJRyWIlICHg
+https://www.youtube.com/watch?v=1M1FCA316Cs
+https://www.youtube.com/watch?v=XEcWNJNaBZU
+https://www.youtube.com/watch?v=U8CGNfXkm3Y
+https://www.youtube.com/watch?v=dxPXbT63oQQ
+https://www.youtube.com/watch?v=1u9kELBKni8
+https://www.youtube.com/watch?v=iy13sHesKcY
+https://www.youtube.com/watch?v=bzfji4lF5Jk
+https://www.youtube.com/watch?v=dz5_o3nGcAY
+https://www.youtube.com/watch?v=JSiEe1wIh-Q
+https://www.youtube.com/watch?v=iVWnjecUIKg
+https://www.youtube.com/watch?v=H4eLv1y76PI
+https://www.youtube.com/watch?v=JMwMPxbk7eE
+https://www.youtube.com/watch?v=73X4PM7f_p8
+https://www.youtube.com/watch?v=FDZ6sKc3RPc
+https://www.youtube.com/watch?v=ASUYvYuAOaw
+https://www.youtube.com/watch?v=82cBLH8Ub4w
+https://www.youtube.com/watch?v=5fWTRJQ_x0M
+https://www.youtube.com/watch?v=X6B7He1lpbg
+https://www.youtube.com/watch?v=LO-aL87N6R4
+https://www.youtube.com/watch?v=i9_AJgQuQxc
+https://www.youtube.com/watch?v=cMLycdzPN-s
+https://www.youtube.com/watch?v=Ja52ST9Pj6w
+https://www.youtube.com/watch?v=cugiSuHV6xI
+https://www.youtube.com/watch?v=5gtlBRNHIug
+https://www.youtube.com/watch?v=x-nUXjbuBhQ
+https://www.youtube.com/watch?v=_DF2Q54LqOw
+https://www.youtube.com/watch?v=SwIOr_81bm4
+https://www.youtube.com/watch?v=lMEd3pWyVCg
+https://www.youtube.com/watch?v=mSLM4z_NiEc
+https://www.youtube.com/watch?v=gfHTj5P2w6Y
+https://www.youtube.com/watch?v=FtF7nwfZ3f4
+https://www.youtube.com/watch?v=xCrxONw_rQQ
+https://www.youtube.com/watch?v=99OSiSEXUBc
+https://www.youtube.com/watch?v=2F1EavpUKF0
+https://www.youtube.com/watch?v=regu58_H8ek
+https://www.youtube.com/watch?v=Dyn-CIxhvbI
+https://www.youtube.com/watch?v=I08zRN2BdS8
+https://www.youtube.com/watch?v=1cWihyL1hCM
+https://www.youtube.com/watch?v=w61-romCWv0
+https://www.youtube.com/watch?v=mZzMjsWEWIM
+https://www.youtube.com/watch?v=eMp3Yrj6Yfw>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=aJFubqyiOew https://www.youtube.com/watch?v=jcL6j81FOgs https://www.youtube.com/watch?v=VJRyWIlICHg https://www.youtube.com/watch?v=1M1FCA316Cs https://www.youtube.com/watch?v=XEcWNJNaBZU https://www.youtube.com/watch?v=U8CGNfXkm3Y https://www.youtube.com/watch?v=dxPXbT63oQQ https://www.youtube.com/watch?v=1u9kELBKni8 https://www.youtube.com/watch?v=iy13sHesKcY https://www.youtube.com/watch?v=bzfji4lF5Jk https://www.youtube.com/watch?v=dz5_o3nGcAY https://www.youtube.com/watch?v=JSiEe1wIh-Q https://www.youtube.com/watch?v=iVWnjecUIKg https://www.youtube.com/watch?v=H4eLv1y76PI https://www.youtube.com/watch?v=JMwMPxbk7eE https://www.youtube.com/watch?v=73X4PM7f_p8 https://www.youtube.com/watch?v=FDZ6sKc3RPc https://www.youtube.com/watch?v=ASUYvYuAOaw https://www.youtube.com/watch?v=82cBLH8Ub4w https://www.youtube.com/watch?v=5fWTRJQ_x0M https://www.youtube.com/watch?v=X6B7He1lpbg https://www.youtube.com/watch?v=LO-aL87N6R4 https://www.youtube.com/watch?v=i9_AJgQuQxc https://www.youtube.com/watch?v=cMLycdzPN-s https://www.youtube.com/watch?v=Ja52ST9Pj6w https://www.youtube.com/watch?v=cugiSuHV6xI https://www.youtube.com/watch?v=5gtlBRNHIug https://www.youtube.com/watch?v=x-nUXjbuBhQ https://www.youtube.com/watch?v=_DF2Q54LqOw https://www.youtube.com/watch?v=SwIOr_81bm4 https://www.youtube.com/watch?v=lMEd3pWyVCg https://www.youtube.com/watch?v=mSLM4z_NiEc https://www.youtube.com/watch?v=gfHTj5P2w6Y https://www.youtube.com/watch?v=FtF7nwfZ3f4 https://www.youtube.com/watch?v=xCrxONw_rQQ https://www.youtube.com/watch?v=99OSiSEXUBc https://www.youtube.com/watch?v=2F1EavpUKF0 https://www.youtube.com/watch?v=regu58_H8ek https://www.youtube.com/watch?v=Dyn-CIxhvbI https://www.youtube.com/watch?v=I08zRN2BdS8 https://www.youtube.com/watch?v=1cWihyL1hCM https://www.youtube.com/watch?v=w61-romCWv0 https://www.youtube.com/watch?v=mZzMjsWEWIM https://www.youtube.com/watch?v=eMp3Yrj6Yfw>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=aJFubqyiOew https://www.youtube.com/watch?v=jcL6j81FOgs https://www.youtube.com/watch?v=VJRyWIlICHg https://www.youtube.com/watch?v=1M1FCA316Cs https://www.youtube.com/watch?v=XEcWNJNaBZU https://www.youtube.com/watch?v=U8CGNfXkm3Y https://www.youtube.com/watch?v=dxPXbT63oQQ https://www.youtube.com/watch?v=1u9kELBKni8 https://www.youtube.com/watch?v=iy13sHesKcY https://www.youtube.com/watch?v=bzfji4lF5Jk https://www.youtube.com/watch?v=dz5_o3nGcAY https://www.youtube.com/watch?v=JSiEe1wIh-Q https://www.youtube.com/watch?v=iVWnjecUIKg https://www.youtube.com/watch?v=H4eLv1y76PI https://www.youtube.com/watch?v=JMwMPxbk7eE https://www.youtube.com/watch?v=73X4PM7f_p8 https://www.youtube.com/watch?v=FDZ6sKc3RPc https://www.youtube.com/watch?v=ASUYvYuAOaw https://www.youtube.com/watch?v=82cBLH8Ub4w https://www.youtube.com/watch?v=5fWTRJQ_x0M https://www.youtube.com/watch?v=X6B7He1lpbg https://www.youtube.com/watch?v=LO-aL87N6R4 https://www.youtube.com/watch?v=i9_AJgQuQxc https://www.youtube.com/watch?v=cMLycdzPN-s https://www.youtube.com/watch?v=Ja52ST9Pj6w https://www.youtube.com/watch?v=cugiSuHV6xI https://www.youtube.com/watch?v=5gtlBRNHIug https://www.youtube.com/watch?v=x-nUXjbuBhQ https://www.youtube.com/watch?v=_DF2Q54LqOw https://www.youtube.com/watch?v=SwIOr_81bm4 https://www.youtube.com/watch?v=lMEd3pWyVCg https://www.youtube.com/watch?v=mSLM4z_NiEc https://www.youtube.com/watch?v=gfHTj5P2w6Y https://www.youtube.com/watch?v=FtF7nwfZ3f4 https://www.youtube.com/watch?v=xCrxONw_rQQ https://www.youtube.com/watch?v=99OSiSEXUBc https://www.youtube.com/watch?v=2F1EavpUKF0 https://www.youtube.com/watch?v=regu58_H8ek https://www.youtube.com/watch?v=Dyn-CIxhvbI https://www.youtube.com/watch?v=I08zRN2BdS8 https://www.youtube.com/watch?v=1cWihyL1hCM https://www.youtube.com/watch?v=w61-romCWv0 https://www.youtube.com/watch?v=mZzMjsWEWIM https://www.youtube.com/watch?v=eMp3Yrj6Yfw>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=aJFubqyiOew https://www.youtube.com/watch?v=jcL6j81FOgs https://www.youtube.com/watch?v=VJRyWIlICHg https://www.youtube.com/watch?v=1M1FCA316Cs https://www.youtube.com/watch?v=XEcWNJNaBZU https://www.youtube.com/watch?v=U8CGNfXkm3Y https://www.youtube.com/watch?v=dxPXbT63oQQ https://www.youtube.com/watch?v=1u9kELBKni8 https://www.youtube.com/watch?v=iy13sHesKcY https://www.youtube.com/watch?v=bzfji4lF5Jk https://www.youtube.com/watch?v=dz5_o3nGcAY https://www.youtube.com/watch?v=JSiEe1wIh-Q https://www.youtube.com/watch?v=iVWnjecUIKg https://www.youtube.com/watch?v=H4eLv1y76PI https://www.youtube.com/watch?v=JMwMPxbk7eE https://www.youtube.com/watch?v=73X4PM7f_p8 https://www.youtube.com/watch?v=FDZ6sKc3RPc https://www.youtube.com/watch?v=ASUYvYuAOaw https://www.youtube.com/watch?v=82cBLH8Ub4w https://www.youtube.com/watch?v=5fWTRJQ_x0M https://www.youtube.com/watch?v=X6B7He1lpbg https://www.youtube.com/watch?v=LO-aL87N6R4 https://www.youtube.com/watch?v=i9_AJgQuQxc https://www.youtube.com/watch?v=cMLycdzPN-s https://www.youtube.com/watch?v=Ja52ST9Pj6w https://www.youtube.com/watch?v=cugiSuHV6xI https://www.youtube.com/watch?v=5gtlBRNHIug https://www.youtube.com/watch?v=x-nUXjbuBhQ https://www.youtube.com/watch?v=_DF2Q54LqOw https://www.youtube.com/watch?v=SwIOr_81bm4 https://www.youtube.com/watch?v=lMEd3pWyVCg https://www.youtube.com/watch?v=mSLM4z_NiEc https://www.youtube.com/watch?v=gfHTj5P2w6Y https://www.youtube.com/watch?v=FtF7nwfZ3f4 https://www.youtube.com/watch?v=xCrxONw_rQQ https://www.youtube.com/watch?v=99OSiSEXUBc https://www.youtube.com/watch?v=2F1EavpUKF0 https://www.youtube.com/watch?v=regu58_H8ek https://www.youtube.com/watch?v=Dyn-CIxhvbI https://www.youtube.com/watch?v=I08zRN2BdS8 https://www.youtube.com/watch?v=1cWihyL1hCM https://www.youtube.com/watch?v=w61-romCWv0 https://www.youtube.com/watch?v=mZzMjsWEWIM https://www.youtube.com/watch?v=eMp3Yrj6Yfw>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=aJFubqyiOew https://www.youtube.com/watch?v=jcL6j81FOgs https://www.youtube.com/watch?v=VJRyWIlICHg https://www.youtube.com/watch?v=1M1FCA316Cs https://www.youtube.com/watch?v=XEcWNJNaBZU https://www.youtube.com/watch?v=U8CGNfXkm3Y https://www.youtube.com/watch?v=dxPXbT63oQQ https://www.youtube.com/watch?v=1u9kELBKni8 https://www.youtube.com/watch?v=iy13sHesKcY https://www.youtube.com/watch?v=bzfji4lF5Jk https://www.youtube.com/watch?v=dz5_o3nGcAY https://www.youtube.com/watch?v=JSiEe1wIh-Q https://www.youtube.com/watch?v=iVWnjecUIKg https://www.youtube.com/watch?v=H4eLv1y76PI https://www.youtube.com/watch?v=JMwMPxbk7eE https://www.youtube.com/watch?v=73X4PM7f_p8 https://www.youtube.com/watch?v=FDZ6sKc3RPc https://www.youtube.com/watch?v=ASUYvYuAOaw https://www.youtube.com/watch?v=82cBLH8Ub4w https://www.youtube.com/watch?v=5fWTRJQ_x0M https://www.youtube.com/watch?v=X6B7He1lpbg https://www.youtube.com/watch?v=LO-aL87N6R4 https://www.youtube.com/watch?v=i9_AJgQuQxc https://www.youtube.com/watch?v=cMLycdzPN-s https://www.youtube.com/watch?v=Ja52ST9Pj6w https://www.youtube.com/watch?v=cugiSuHV6xI https://www.youtube.com/watch?v=5gtlBRNHIug https://www.youtube.com/watch?v=x-nUXjbuBhQ https://www.youtube.com/watch?v=_DF2Q54LqOw https://www.youtube.com/watch?v=SwIOr_81bm4 https://www.youtube.com/watch?v=lMEd3pWyVCg https://www.youtube.com/watch?v=mSLM4z_NiEc https://www.youtube.com/watch?v=gfHTj5P2w6Y https://www.youtube.com/watch?v=FtF7nwfZ3f4 https://www.youtube.com/watch?v=xCrxONw_rQQ https://www.youtube.com/watch?v=99OSiSEXUBc https://www.youtube.com/watch?v=2F1EavpUKF0 https://www.youtube.com/watch?v=regu58_H8ek https://www.youtube.com/watch?v=Dyn-CIxhvbI https://www.youtube.com/watch?v=I08zRN2BdS8 https://www.youtube.com/watch?v=1cWihyL1hCM https://www.youtube.com/watch?v=w61-romCWv0 https://www.youtube.com/watch?v=mZzMjsWEWIM https://www.youtube.com/watch?v=eMp3Yrj6Yfw>
