@@ -1,9 +1,9 @@
 module.exports = {
 	name: 'guildMemberAdd',
 	description: 'member joined server!',
-  eventexec(client, guild) {
+  eventexec(client, member) {
     console.log("join");
-    channele = guild.channels.cache;
+    channele = member.guild.channels.cache;
     channele.forEach(function(channelee) {
       if(channelee.name === "welcome") {
         channelee.send("joined");

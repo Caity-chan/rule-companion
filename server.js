@@ -1,9 +1,15 @@
 const express = require('express');
-const server = express();
-server.all('/', (req, res)=>{
-    res.send('Your bot is alive!')
-});
+const app = express();
+
+
 function keepAlive(){
-    server.listen(3000, ()=>{console.log("Server is Ready!")});
+    console.log('pog')
+    app.get('/', (req, res)=>{
+      res.send('Your bot is alive!')
+    });
+    app.get(`/guilds`, function (req, res) {
+      res.send("10");
+    })
+    app.listen(3000)
 }
 module.exports = keepAlive;

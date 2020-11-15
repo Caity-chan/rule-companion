@@ -1,5 +1,5 @@
 const fs = require('fs');
-const prefix = "rcc.";
+const { prefix } = require(`${__dirname}/../misc/config.json`);
 const { setCommands } = require(`${__dirname}/../utilities/commands.js`);
 const logpath = `${__dirname}/../misc/logs.txt`;
 

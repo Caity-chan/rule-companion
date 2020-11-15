@@ -1,4 +1,4 @@
-const keepAlive = require('./server');
+const keepAlive = require('./server.js');
 const fs = require('fs');
 const Discord = require('discord.js');
 
@@ -12,11 +12,10 @@ client.events = new Discord.Collection();
 
 const { setCommands } = require(`./utilities/commands.js`);
 const commandlist = setCommands(client);
-console.log(commandlist);
+//console.log(commandlist);
 
 const { setEvents } = require('./utilities/events.js');
 const eventlist = setEvents(client);
-console.log(eventlist);
-
-keepAlive();
+//console.log(eventlist);
 client.login(token);
+keepAlive();
