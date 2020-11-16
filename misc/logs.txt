@@ -798,3 +798,7 @@ https://www.youtube.com/watch?v=eMp3Yrj6Yfw>
  [Guild.765786259444072468.member.563980783828860944] fetch <test>
  [Bot] Ready!
  [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Joined a new guild: mystery legal
+ [Bot] Ready!
+ [Bot] Ready!

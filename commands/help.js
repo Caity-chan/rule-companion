@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const { MessageEmbed } = require('discord.js');
-const whateverEmbed = new Discord.MessageEmbed()
+const mainEmbed = new Discord.MessageEmbed()
   .setColor('Put Hex Code here')
   .setTitle('Rule Composition Companion Command List')
   .addFields(
@@ -189,7 +189,7 @@ module.exports = {
     arg = args[0].toLowerCase();
     message.channel.send(arg);
     if(arg === undefined) {
-      return message.channel.send(whateverEmbed);
+      return message.channel.send(mainEmbed);
     } else if(arg === "moderation") {
       return message.channel.send(moderationEmbed);
     } else if(arg === "rules") {
