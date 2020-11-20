@@ -30,9 +30,9 @@ module.exports = {
           var userId = usera.match(/\d{16,23}/g)[0]
           console.log(userId)
           userId = "<@" + userId + ">";
-          warns.remove({ name: userId, guild: message.guild.id, warning: warninge }, {}, function (err, numRemoved) {
-            message.channel.send("Warn successfully removed!");
-          });
+          //warns.remove({ name: userId, guild: message.guild.id, warning: warninge }, {}, //function (err, numRemoved) {
+            //message.channel.send("Warn successfully removed!");
+          //});
           warns.remove({ name: userId, guild: message.guild.id, _id: warninge }, {}, function (err, numRemoved) {
             message.channel.send("Warn successfully removed!");
           });

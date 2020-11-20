@@ -802,3 +802,349 @@ https://www.youtube.com/watch?v=eMp3Yrj6Yfw>
  [Bot] Joined a new guild: mystery legal
  [Bot] Ready!
  [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <Rules>
+ [Guild.765786259444072468.member.563980783828860944] help <rules>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <Moderation>
+ [Guild.765786259444072468.member.465933927690010624] warn <<@563980783828860944> haiiii>
+ [Guild.774729148357804093.member.563980783828860944] warn <<@!722174854073286756> yelling at me>
+ [Guild.774729148357804093.member.563980783828860944] read-warns <<@!722174854073286756>>
+ [Guild.774729148357804093.member.722174854073286756] warn <<@!563980783828860944> warning the owner>
+ [Bot] Ready!
+ [Guild.774729148357804093.member.563980783828860944] remove-warn <<@!563980783828860944> ZhaiiAAtdEb5e4Lc>
+ [Guild.774729148357804093.member.722174854073286756] warn <<@!563980783828860944> stop removing your warnings>
+ [Guild.774729148357804093.member.563980783828860944] warn <<@!722174854073286756> I can do whatever I want with my own bot>
+ [Bot] Ready!
+ [Guild.774729148357804093.member.563980783828860944] remove-warn <<@!563980783828860944> gXXu10ZrKDgP3kyM>
+ [Guild.774729148357804093.member.563980783828860944] read-warns <<@!722174854073286756>>
+ [Bot] Ready!
+ [Guild.774729148357804093.member.563980783828860944] remove-warn <<@!722174854073286756> 3EuNPGfO77mOHh4d>
+ [Guild.774729148357804093.member.563980783828860944] remove-warn <<@!722174854073286756> fLRvEBsmaRGzPVMk>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=pKs6O_VTEI4>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=pKs6O_VTEI4>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=pKs6O_VTEI4>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=pKs6O_VTEI4>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=pKs6O_VTEI4>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dl-vid <https://www.youtube.com/watch?v=pKs6O_VTEI4>
+ [Bot] Ready!
+ [Guild.772317609600483348.member.465933927690010624] help <>
+ [Guild.772317609600483348.member.465933927690010624] help <misc>
+ [Guild.723378144760823830.member.563980783828860944] announce <What's going on?>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] user-prefix <test.>
+ [Guild.765786259444072468.member.563980783828860944] .help <>
+ [Guild.765786259444072468.member.563980783828860944] .help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] .help <>
+ [Guild.765786259444072468.member.563980783828860944] user-prefix <test.>
+ [Guild.765786259444072468.member.563980783828860944] .help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] .help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] .help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] .help <>
+ [Guild.774729148357804093.member.722174854073286756] use...? <>
+ [Guild.774729148357804093.member.723973477559959562] nted <ro>
+ [Guild.774729148357804093.member.722174854073286756] the <hell?>
+ [Guild.774729148357804093.member.722174854073286756] essages <are being deleted>
+ [Bot] Ready!
+ [Guild.774729148357804093.member.371837731388522497] s, <you aren't a fucking loser>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.774729148357804093.member.371837731388522497] aren't <a loser>
+ [Guild.774729148357804093.member.371837731388522497] e <say this, you are losern't>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] announce <Added user-specific prefixes! `rcc.user-prefix <prefix you want>`
+Example `rcc.prefix bot.`>
+ [Guild.765786259444072468.member.563980783828860944] announce <Added user-specific prefixes! `rcc.user-prefix <prefix you want>`
+Example `rcc.user-prefix bot.`
+`bot.help`>
+ [Guild.765786259444072468.member.563980783828860944] announce <Added user-specific prefixes! `rcc.user-prefix <prefix you want>`
+Example: `rcc.user-prefix bot.`
+Outcome: `bot.help`>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <>
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] welcome-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] announce <test>
+ [Guild.765786259444072468.member.563980783828860944] announce <test>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] membercount <>
+ [Guild.765786259444072468.member.563980783828860944] member-count <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] server <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] remote-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] remote-announce <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Guild.730077268390445229.member.520188477870964736] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.769454705859362826.member.529476190554161153] support <>
+ [Guild.724297604216782858.member.710434981771477112] announce <hey>
+ [Guild.730077268390445229.member.569377741778976769] help <>
+ [Guild.730077268390445229.member.569377741778976769] announce <>
+ [Guild.730077268390445229.member.569377741778976769] opt-in <>
+ [Guild.730077268390445229.member.569377741778976769] help <server-info>
+ [Guild.730077268390445229.member.569377741778976769] inve <>
+ [Guild.730077268390445229.member.569377741778976769] invite <>
+ [Guild.730077268390445229.member.569377741778976769] announce <>
+ [Guild.774729148357804093.member.563980783828860944] purge <100 REEEEE>
+ [Guild.765786259444072468.member.563980783828860944] mass-announce <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] ping <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] ping <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.DMs.member.563980783828860944] help <>
+ [Guild.DMs.member.563980783828860944] help <>
+ [Guild.DMs.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.DMs.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.DMs.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.@me.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] remote-announce <>
+ [Guild.765786259444072468.member.563980783828860944] remote-announce <https://media.discordapp.net/attachments/771861077209382923/778697883943698472/unknown.png?width=394&height=370>
+ [Guild.765786259444072468.member.563980783828860944] remote-announce <THE BOT NOW SUPPORTS COMMANDS IN DMS>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] announce <test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] announce <test>
+ [Guild.@me.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.@me.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] announce <test>
+ [Guild.@me.member.563980783828860944] remote-announce <testing from DMs>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.@me.member.563980783828860944] help <>
+ [Bot] Joined a new guild: 𝙾𝙲 𝚁𝙾𝙻𝙴𝙿𝙻𝙰𝚈
+ [Guild.777258789422104588.member.690039378504056855] help <>
+ [Guild.777258789422104588.member.690039378504056855] help <Rules>
+ [Guild.777258789422104588.member.690039378504056855] first-rule <Respect others>
+ [Guild.777258789422104588.member.690039378504056855] add <No bullying>
+ [Guild.777258789422104588.member.690039378504056855] add <No homophobic or racial slurs>
+ [Guild.777258789422104588.member.690039378504056855] add <No offensive nicknames>
+ [Guild.777258789422104588.member.690039378504056855] add <No sexually explicit profile pictures>
+ [Guild.777258789422104588.member.690039378504056855] add <No harassment.>
+ [Guild.777258789422104588.member.690039378504056855] add <Never start drama over religion, race, gender, culture>
+ [Guild.777258789422104588.member.690039378504056855] add <No controlling other people's characters>
+ [Guild.777258789422104588.member.690039378504056855] add <Do not make your character over powered>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Guild.777258789422104588.member.563980783828860944] credits <>
+ [Guild.777258789422104588.member.563980783828860944] dm-rules <>
+ [Guild.777258789422104588.member.563980783828860944] help <>
+ [Guild.777258789422104588.member.563980783828860944] help <rules>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.777258789422104588.member.563980783828860944] dm-rules <>
+ [Guild.777258789422104588.member.689309039385116728] announce <hi>
+ [Bot] Ready!
+ [Guild.777258789422104588.member.563980783828860944] dm-rules <>
+ [Guild.777258789422104588.member.689309039385116728] dm-rules <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Joined a new guild: loveys b!tch club server
+ [Guild.772540314929201163.member.553734488882937857] help <>
+ [Guild.772540314929201163.member.553734488882937857] help <>
+ [Guild.772540314929201163.member.553734488882937857] help <rules>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] post <>
+ [Guild.765786259444072468.member.563980783828860944] add-rule <test>
+ [Guild.765786259444072468.member.563980783828860944] post <>
+ [Guild.765786259444072468.member.563980783828860944] remote-announce <THE BOT IS NOW FULLY FUNCTIONAL>
+ [Guild.765786259444072468.member.563980783828860944] announce <@everyone (sorry for ping)>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] purge <8 nsfw>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fetch <test>
+ [Bot] Joined a new guild: Worship The Lemoan
+ [Guild.779081047182671912.member.729184568602787852] help <>
+ [Guild.779081047182671912.member.729184568602787852] announcement <die>
+ [Bot] Ready!
+ [Bot] Ready!

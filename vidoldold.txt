@@ -12,6 +12,7 @@ module.exports = {
 	description: 'download video!',
 	execute(message, args, client) {
     args.forEach(link => {
+      index = 
       setTimeout(function() {
         if(message.author.id =='563980783828860944') {
         
@@ -28,6 +29,10 @@ module.exports = {
             ytdl(link)
       .pipe(fs.createWriteStream(`${__dirname}/../videos/${length}.mp4`));
           });
+          message.channel.send({
+    files: [`${__dirname}/../videos/tempfile.mp4`]
+          });
+          //fs.unlinkSync(filePath)
         }
         console.log("done");
         console.log(link);

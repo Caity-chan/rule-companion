@@ -11,7 +11,7 @@ module.exports = {
       //var rules = args.slice(1);
       var rule = args.slice(1).join(' ');
       channel.messages.fetch(args[0]).then(message => message.edit(message.content + `\n${rule}`)).catch(console.error);
-	  	fs.appendFile(`./serverrules/${ees}.txt`, `\n${rule}`, function (err) {
+	  	fs.appendFile(`${__dirname}/../../serverrules/${ees}.txt`, `\n${rule}`, function (err) {
         if (err) throw err;
         console.log('Updated!');
       });

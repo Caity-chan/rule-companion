@@ -6,7 +6,7 @@ module.exports = {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
       var ees = message.guild.id;
       message.channel.send(args.join(' '));
-	  	fs.appendFile(`./serverrules/${ees}.txt`, args.join(' '), function (err) {
+	  	fs.appendFile(`${__dirname}/../../serverrules/${ees}.txt`, args.join(' '), function (err) {
         if (err) throw err;
         console.log('Updated!');
       });

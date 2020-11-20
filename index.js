@@ -12,7 +12,7 @@ client.events = new Discord.Collection();
 
 const { setCommands } = require(`./utilities/commands.js`);
 const commandlist = setCommands(client);
-//console.log(commandlist);
+console.log(commandlist);
 
 const { setEvents } = require('./utilities/events.js');
 const eventlist = setEvents(client);

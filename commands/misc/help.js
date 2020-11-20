@@ -186,17 +186,15 @@ module.exports = {
 	name: 'help',
 	description: 'help!',
 	execute(message, args, client) {
-    arg = args[0].toLowerCase();
-    message.channel.send(arg);
-    if(arg === undefined) {
+    if (!args[0]) {
       return message.channel.send(mainEmbed);
-    } else if(arg === "moderation") {
+    } else if(args[0].toLowerCase() === "moderation") {
       return message.channel.send(moderationEmbed);
-    } else if(arg === "rules") {
+    } else if(args[0].toLowerCase() === "rules") {
       return message.channel.send(rulesEmbed);
-    } else if(arg === "misc") {
+    } else if(args[0].toLowerCase() === "misc") {
       return message.channel.send(miscEmbed);
-    } else if(arg === "server-info") {
+    } else if(args[0].toLowerCase() === "server-info") {
       return message.channel.send(serverInfoEmbed);
     }
   	

@@ -1,4 +1,4 @@
-const { numbers, text, binary } = require(`${__dirname}/../utilities/math-stuff/code-libraries.js`);
+const { numbers, text, binary } = require(`${__dirname}/../../utilities/math-stuff/code-libraries.js`);
 
 module.exports = {
 	name: 'encode',

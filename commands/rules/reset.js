@@ -5,7 +5,7 @@ module.exports = {
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
 	  	var ees = message.guild.id;
-      const path = `./serverrules/${ees}.txt`
+      const path = `${__dirname}/../../serverrules/${ees}.txt`
       try {
         fs.unlinkSync(path)
         var writeStream = fs.createWriteStream(path);

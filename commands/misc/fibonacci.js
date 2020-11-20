@@ -1,4 +1,4 @@
-const { fibonacci } = require(`${__dirname}/../utilities/math-stuff/fibonacci.js`);
+const { fibonacci } = require(`${__dirname}/../../utilities/math-stuff/fibonacci.js`);
 //fibonacci(0, 1, 1); //starts out at values 0 and 1 at a delay of 1 second per turn
 
 module.exports = {
