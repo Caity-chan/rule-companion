@@ -1148,3 +1148,187 @@ Outcome: `bot.help`>
  [Guild.779081047182671912.member.729184568602787852] announcement <die>
  [Bot] Ready!
  [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <400>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <150 max purge test>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <150 max purge test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <150 max purge test>
+ [Guild.723378144760823830.member.563980783828860944] purge <10 mess-up>
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 bulk test>
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Guild.723378144760823830.member.563980783828860944] purge <150>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Bot] Joined a new guild: Serwer z NASA ci w siurasa
+ [Guild.770291493357092864.member.195991982915584000] announce <Marcinol.1912>
+ [Guild.770291493357092864.member.195991982915584000] add <ruchańsko>
+ [Guild.770291493357092864.member.195991982915584000] add <gwałcior>
+ [Guild.770291493357092864.member.195991982915584000] first-rule <>
+ [Guild.770291493357092864.member.195991982915584000] rules <>
+ [Guild.770291493357092864.member.195991982915584000] help <>
+ [Guild.770291493357092864.member.195991982915584000] help <rules>
+ [Guild.770291493357092864.member.195991982915584000] post <>
+ [Guild.770291493357092864.member.195991982915584000] post <>
+ [Guild.770291493357092864.member.195991982915584000] first-rule <Marcin Olszówka Piękna Osoba>
+ [Guild.770291493357092864.member.195991982915584000] add <Ruchanie Przemka>
+ [Guild.770291493357092864.member.195991982915584000] add <Gwałcior>
+ [Guild.770291493357092864.member.195991982915584000] post <>
+ [Guild.770291493357092864.member.195991982915584000] add <MarcinOl>
+ [Guild.770291493357092864.member.195991982915584000] post <>
+ [Guild.770291493357092864.member.195991982915584000] post <>
+ [Guild.770291493357092864.member.195991982915584000] reset <>
+ [Guild.770291493357092864.member.195991982915584000] post <>
+ [Guild.770291493357092864.member.195991982915584000] first-rule <Pierdolenie>
+ [Guild.770291493357092864.member.195991982915584000] posrt <>
+ [Guild.770291493357092864.member.195991982915584000] post <>
+ [Guild.770291493357092864.member.195991982915584000] announce <Gwałcior 😎 🤙>
+ [Guild.770291493357092864.member.195991982915584000] help <misc>
+ [Guild.770291493357092864.member.195991982915584000] first-rule <Gwałcior 😎 🤙>
+ [Guild.770291493357092864.member.195991982915584000] add <Ruchałek>
+ [Guild.770291493357092864.member.195991982915584000] post <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge tets>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110 max purge test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <11>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <110>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <116>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <116>
+ [Guild.723378144760823830.member.563980783828860944] purge <116 max purge tets>
+ [Guild.723378144760823830.member.563980783828860944] populate <116>
+ [Guild.723378144760823830.member.563980783828860944] purge <116>
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <220>
+ [Guild.723378144760823830.member.563980783828860944] purge <220>
+ [Guild.723378144760823830.member.563980783828860944] populate <353>
+ [Guild.723378144760823830.member.563980783828860944] populate <1500>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <1500 max purge test>
+ [Guild.723378144760823830.member.563980783828860944] purge <1500 max purge test>
+ [Guild.723378144760823830.member.563980783828860944] announce <toddbot>
+ [Guild.754391251406815364.member.563980783828860944] leave-message <<#754395224175935631>>
+ [Guild.754391251406815364.member.563980783828860944] credits <>
+ [Guild.754391251406815364.member.563980783828860944] leave-channel <<#754395224175935631>>
+ [Guild.754391251406815364.member.563980783828860944] join-channel <>
+ [Guild.754391251406815364.member.563980783828860944] welcome-channel <>
+ [Guild.723378144760823830.member.563980783828860944] join-channel <>
+ [Guild.723378144760823830.member.563980783828860944] welcome-channel <>
+ [Guild.723378144760823830.member.563980783828860944] leave-channel <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] rules-web <>
+ [Guild.723378144760823830.member.563980783828860944] first-rule <1. Be nice>
+ [Guild.723378144760823830.member.563980783828860944] add-rule <779572677362712576 2. don't be rude>
+ [Guild.723378144760823830.member.563980783828860944] add-rule-by-id <779572677362712576 2. Don't be rude>
+ [Guild.723378144760823830.member.563980783828860944] rules-web <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] add-rule-by-id <779572677362712576 Respect staff>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!

@@ -49,3 +49,51 @@
 //const text = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", " "];
 
 //const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26];
+
+
+
+
+  //message.channel.bulkDelete(numa+1);
+          /*
+          count = 1;
+        numa.forEach((messageCount, index) => {
+          setTimeout(function() {
+            message.channel.bulkDelete(messageCount + 1);
+            console.log(messageCount)
+            console.log((index + 1) * 3000)
+          }, (index + 1) * 3000);
+        });
+        */
+        
+          //num= numa+numb+numc+numd+nume+numf+numg+numh+numi+numj;
+
+
+
+          
+        numa = []
+        numa[0] = Math.floor(num/10 + 1);
+        numa[1] = Math.ceil(num/10 + 1);
+        numa[2] = Math.floor(num/10 + 1);
+        numa[3] = Math.ceil(num/10);
+        numa[4] = Math.floor(num/10);
+        numa[5] = Math.ceil(num/10);
+        numa[6] = Math.floor(num/10);
+        numa[7] = Math.ceil(num/10);
+        numa[8] = Math.floor(num/10);
+        numa[9] = Math.ceil(num/10);
+
+
+
+          //message.channel.bulkDelete(numa+1);
+        /* 
+          count = 1;
+        numa.forEach((messageCount, index) => {
+          await message.channel.bulkDelete(messageCount + 1);
+          console.log(messageCount)
+          console.log((index + 1) * 3000)
+      });
+        */
+        //console.log(numa);
+        //message.channel.bulkDelete(numa[0] + 1).then(message.channel.bulkDelete(numa[1] + 1)).then(console.log(numa));
+          //num= numa+numb+numc+numd+nume+numf+numg+numh+numi+numj;
+          

@@ -15,16 +15,33 @@ var router = express.Router()
         
         
         //console.log(rules)
-        router.get('/rules/:server', (req, res)=>{
+        app.get('/rules/:server', (req, res)=>{
           console.log(req.params.server)
           const path = `./serverrules/${req.params.server}.txt`;
           const content = fs.readFileSync(path, 'utf-8');
-          res.send(content);
+          newcont = content.split("\n");
+          //console.log(newcont)
+          newnewcont = newcont.join("<br>");
+          res.send(newnewcont);
         });
       
     //}
 
+app.get('/br', (req,res)=>{
+  res.send("test<br>test")
+})
+app.get('/site', (req,res)=>{
+  const path = `./site/site.html`;
+  const content = fs.readFileSync(path, 'utf-8');
+  res.send(content);
 
+})
+app.get('/site/:page', (req,res)=>{
+  const path = `./site/${req.params.page}.html`;
+  const content = fs.readFileSync(path, 'utf-8');
+  res.send(content);
+
+})
 function keepAlive(){
     console.log('pog')
     app.get('/', (req, res)=>{
