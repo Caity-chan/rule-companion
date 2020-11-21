@@ -1332,3 +1332,61 @@ Outcome: `bot.help`>
  [Bot] Ready!
  [Bot] Ready!
  [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] rules-web <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] credits <>
+ [Guild.772934771763970051.member.563980783828860944] rules-web <>
+ [Guild.772934771763970051.member.563980783828860944] help <>
+ [Guild.772934771763970051.member.563980783828860944] help <rules>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule <test>
+ [Guild.765786259444072468.member.563980783828860944] post <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule <test>
+ [Guild.765786259444072468.member.563980783828860944] post <>
+ [Guild.765786259444072468.member.563980783828860944] reset <>
+ [Guild.765786259444072468.member.563980783828860944] divider-style <>----------------------------<>
+ [Guild.765786259444072468.member.563980783828860944] first-rule <1. Be respectful and kind>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <779596818161205248 2. Do not be toxic or rude>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] reset <>
+ [Guild.765786259444072468.member.563980783828860944] first-rule <1. Be respectful and kind>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <779597057651507200 2. Do not be toxic or rude>
+ [Guild.765786259444072468.member.563980783828860944] post <>
+ [Guild.765786259444072468.member.563980783828860944] reset <>
+ [Guild.765786259444072468.member.563980783828860944] first-rule <test>
+ [Guild.765786259444072468.member.563980783828860944] add-rule <test test>
+ [Guild.765786259444072468.member.563980783828860944] add-rule <test test test>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <779597724362211379 test test test test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <779597724362211379 test test test test test>
+ [Guild.765786259444072468.member.563980783828860944] reset <>
+ [Guild.765786259444072468.member.563980783828860944] divider-style <>------------------------<>
+ [Guild.765786259444072468.member.563980783828860944] first-rule <test>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <779599035035942923 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <779599035035942923 test3>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <2432 test>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] populate <50>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] collect <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
