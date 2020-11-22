@@ -1,8 +1,9 @@
 const fs = require('fs');
 module.exports = {
 	name: 'reset',
-  usage: '`rcc.credits`',
-	description: 'announce!',
+  usage: '`rcc.reset`',
+	description: "Reset the server's rules!",
+  executableBy: "Administrator",
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
 	  	var ees = message.guild.id;

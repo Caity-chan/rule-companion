@@ -6,10 +6,11 @@ module.exports = {
 	name: 'read-warns',
   usage: '`rcc.read-warns <@User or UserID>`',
 	description: "read someone's warns!",
+  executableBy: "Administrator",
 	execute(message, args, client) {
     warns.loadDatabase()
-    const useree = args[0]
-    const user = useree.replace(/!/g, /</g, />/g, /@/g, "");
+    const useree = args[0];
+    var user = useree.match(/\d{16,23}/g)[0]
     const warningsliced = message.content.split(' ').slice(2);
     const warnse = []
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
@@ -25,9 +26,9 @@ module.exports = {
           console.log(users)
           const usera = users.toString();
           console.log(usera)
-          var userId = usera.match(/\d{16,23}/g)[0]
-          console.log(userId)
-          client.users.fetch(userId).then((user) => {
+          
+          console.log(user)
+          client.users.fetch(user).then((user) => {
             console.log(user.username)
             message.channel.send('**' + user.tag + '**' + ' has a warn for ' + '`' + myJSON + '`' + `!` + ` Warn ID: **${d._id}**`);
           });

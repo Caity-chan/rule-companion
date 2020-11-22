@@ -5,6 +5,7 @@ module.exports = {
   usage: '`add-rule-by-id <channel-id> <new rule>`',
   category: 'rules',
 	description: 'add rules!',
+  executableBy: "Administrator",
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
       const div = new db.table('dividers');

@@ -10,10 +10,11 @@ module.exports = {
 	name: 'remove-warn',
   usage: '`rcc.remove-warn <@User or UserID> <WarnID>`',
 	description: "remove someone's warn!",
+  executableBy: "Administrator",
 	execute(message, args, client) {
     warns.loadDatabase()
-    const useree = args[0]
-    const user = useree.replace(/!/g, /</g, />/g, /@/g, "");
+    const useree = args[0];
+    var user = useree.match(/\d{16,23}/g)[0]
     const warningsliced = message.content.split(' ').slice(2);
     const warnse = []
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
@@ -28,13 +29,13 @@ module.exports = {
           console.log(users)
           const usera = users.toString();
           console.log(usera)
-          var userId = usera.match(/\d{16,23}/g)[0]
-          console.log(userId)
-          userId = "<@" + userId + ">";
+          //var userId = usera.match(/\d{16,23}/g)[0]
+          //console.log(userId)
+          //username = "<@" + user + ">";
           //warns.remove({ name: userId, guild: message.guild.id, warning: warninge }, {}, //function (err, numRemoved) {
             //message.channel.send("Warn successfully removed!");
           //});
-          warns.remove({ name: userId, guild: message.guild.id, _id: warninge }, {}, function (err, numRemoved) {
+          warns.remove({ name: user, guild: message.guild.id, _id: warninge }, {}, function (err, numRemoved) {
             message.channel.send("Warn successfully removed!");
           });
           //client.users.fetch(userId).then((user) => {

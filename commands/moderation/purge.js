@@ -6,6 +6,7 @@ module.exports = {
 	name: 'purge',
   usage: '`rcc.purge <message amount>`',
 	description: 'purge chat!',
+  executableBy: "Administrator",
 	execute(message, args, client) {
     num = parseInt(args[0]);
     reason = args.slice(1).join(' ');

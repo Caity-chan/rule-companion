@@ -3,6 +3,7 @@ module.exports = {
 	name: 'servers',
   usage: '`rcc.servers`',
 	description: 'The server that the bot is in + how much servers!',
+  executableBy: "Members",
 	execute(message, args, client) {
       let size = client.guilds.cache.size;
       let arr = client.guilds.cache;

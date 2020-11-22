@@ -1,7 +1,8 @@
 module.exports = {
 	name: 'announce',
-  usage: '`rcc.credits`',
-	description: 'announce!',
+  usage: '`rcc.announce <Announcement>`',
+	description: 'announce anonymously!',
+  executableBy: "Administrator",
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
 	  	message.channel.send(args.join(' '));

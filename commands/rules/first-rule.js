@@ -1,8 +1,9 @@
 const fs = require('fs');
 module.exports = {
 	name: 'first-rule',
-  usage: '`rcc.credits`',
-	description: 'first rule!',
+  usage: '`rcc.first-rule`',
+	description: "Set the server's first rule!",
+  executableBy: "Administrator",
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
       var ees = message.guild.id;

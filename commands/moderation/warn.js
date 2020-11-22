@@ -5,10 +5,11 @@ module.exports = {
 	name: 'warn',
   usage: '`rcc.warn <@User or UserID>`',
 	description: 'warn someone!',
+  executableBy: "Administrator",
 	execute(message, args, client) {
     warns.loadDatabase()
-    const useree = args[0]
-    const user = useree.replace(/!/g, /</g, />/g, /@/g, "");
+    const useree = args[0];
+    var user = useree.match(/\d{16,23}/g)[0]
 
     const warningsliced = message.content.split(' ').slice(2);
     const warnse = []
@@ -35,7 +36,7 @@ module.exports = {
         warnse.push(warn);
         
         warns.insert(warn, function(err, docs) {  
-          message.channel.send(user + " has been warned for `" + warning + "`!" + ` Warn ID: **${docs._id}**`);
+          message.channel.send("<@" + user + ">" + " has been warned for `" + warning + "`!" + ` Warn ID: **${docs._id}**`);
         })
       }
 	  	

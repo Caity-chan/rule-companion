@@ -1,8 +1,9 @@
 const fs = require('fs');
 module.exports = {
   name: "post",
-  usage: '`rcc.credits`',
+  usage: '`rcc.post`',
   description: "post server rules!",
+  executableBy: "Administrator",
   execute(message, args, client) {
     const path = `${__dirname}/../../serverrules/${message.guild.id}.txt`;
     const content = fs.readFileSync(path, 'utf-8');

@@ -3,8 +3,9 @@
 const db = require('quick.db');
 module.exports = {
 	name: 'welcome-channel',
-  usage: '`rcc.credits`',
-	description: 'set leave channel!',
+  usage: '`rcc.welcome-channel`',
+	description: 'set welcome message channel!',
+  executableBy: "Administrator",
 	execute(message, args, client) {
     const wc = new db.table('welcomeleavechannels');
     if (args[0] === undefined) {

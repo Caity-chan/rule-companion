@@ -15,18 +15,29 @@ var router = express.Router()
         
         
         //console.log(rules)
-        app.get('/rules/:server', (req, res)=>{
-          console.log(req.params.server)
-          const path = `./serverrules/${req.params.server}.txt`;
-          const content = fs.readFileSync(path, 'utf-8');
-          newcont = content.split("\n");
-          //console.log(newcont)
-          newnewcont = newcont.join("<br>");
-          res.send(newnewcont);
-        });
+app.get('/rules/:server', (req, res)=>{
+  console.log(req.params.server)
+  const path = `./serverrules/${req.params.server}.txt`;
+  const content = fs.readFileSync(path, 'utf-8');
+  newcont = content.split("\n");
+  newnewcont = newcont.join("<br>");
+  res.send(newnewcont);
+});
       
     //}
-
+app.post('/messages', (req, res)=>{
+  fs.appendFile('./misc/messages.txt', `\n${req.params.message}`, function (err) {
+    if (err) throw err;
+    console.log('Updated!');
+  });
+  res.send(req.message);
+});
+app.get('/messages', (req, res)=>{
+  const content = fs.readFileSync('./misc/messages.txt', 'utf-8');
+  newcont = content.split("\n");
+  newnewcont = newcont.join("<br>");
+  res.send(content);
+});
 app.get('/br', (req,res)=>{
   res.send("test<br>test")
 })
