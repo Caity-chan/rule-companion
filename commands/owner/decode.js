@@ -2,6 +2,7 @@ const { numbers, text, binary } = require(`${__dirname}/../../utilities/math-stu
 
 module.exports = {
 	name: 'decode',
+  usage: '`rcc.credits`',
 	description: 'decode!',
 	execute(message, args, client) {
     sentdecoded = [];

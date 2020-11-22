@@ -24,18 +24,9 @@ const mainEmbed = new Discord.MessageEmbed()
     
     ,
 
-    { name: 'Server-info'
-    , value: "Commands that I don't know where to put" }
+    { name: 'Server'
+    , value: "Server Commands" }
     
-    ,
-
-    { name: 'rcc.announce <announcement>'
-    , value: "Make anonymous announcements." }
-    
-    ,
-
-    { name: 'rcc.opt-in'
-    , value: 'Adds the channel that you execute this command in to a list. The list basically says which people want to be notified in their servers about bot updates or giveaways that I plan to do in the future.' }
     
     ,
 
@@ -175,29 +166,68 @@ const serverInfoEmbed = new Discord.MessageEmbed()
     { name: 'rcc.invite'
     , value: 'Gives you the invite url so you can invite the bot to your server!' }
     
+  ,
+
+    { name: 'rcc.announce <announcement>'
+    , value: "Make anonymous announcements." }
+    
+    ,
+
+    { name: 'rcc.opt-in'
+    , value: 'Adds the channel that you execute this command in to a list. The list basically says which people want to be notified in their servers about bot updates or giveaways that I plan to do in the future.' }
+
     ,
 
     { name: "Developer's Note"
     , value: 'Please do not include <> in the commands, that just tells you where to put the item(like the rule or announcement).' }
 
+    
   );
-
+const fs = require('fs')
 module.exports = {
 	name: 'help',
+  usage: '`rcc.help <category>`',
 	description: 'help!',
 	execute(message, args, client) {
+    if(message.content.toLowerCase().includes('owner')) return;
     if (!args[0]) {
-      return message.channel.send(mainEmbed);
-    } else if(args[0].toLowerCase() === "moderation") {
-      return message.channel.send(moderationEmbed);
-    } else if(args[0].toLowerCase() === "rules") {
-      return message.channel.send(rulesEmbed);
-    } else if(args[0].toLowerCase() === "misc") {
-      return message.channel.send(miscEmbed);
-    } else if(args[0].toLowerCase() === "server-info") {
-      return message.channel.send(serverInfoEmbed);
+      //return message.channel.send(mainEmbed);
+      const cats = fs.readdirSync(`${__dirname}/../../commands`);
+      const catsa = new Discord.MessageEmbed()
+        .setColor('Put Hex Code here')
+        .setTitle('Rule Composition Companion Command List');
+      cats.forEach(cat=>{
+        info = require(`${__dirname}/../../commands/${cat}/info.json`);
+        catsa.addFields(
+          {
+            name: info.name,
+            value: info.description
+          }
+        )
+      })
+      
+      message.channel.send(catsa);
+      
+    } else {
+      
+      const commands = fs.readdirSync(`${__dirname}/../${args.join(' ')}`).filter(file => file.endsWith('.js'));
+      
+      const commande = new Discord.MessageEmbed()
+        .setColor('Put Hex Code here')
+        .setTitle('Rule Composition Companion Command List');     
+      for (const file of commands) {
+        const commander = require(`${__dirname}/../${args.join(' ')}/${file}`);
+        
+          commande.addFields(
+            {
+              name: "Name: " + commander.name,
+              value: "Usage: " + commander.usage + "\nDescription: " + commander.description
+            }
+          )
+        
+      }
+      message.channel.send(commande);
     }
-  	
 	},
 };
 

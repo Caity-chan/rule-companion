@@ -4,6 +4,7 @@ const db = require('quick.db');
 
 module.exports = {
 	name: 'support',
+  usage: '`rcc.credits`',
 	description: 'support!',
 	execute(message, args, client) {
     const div = new db.table('dividers');

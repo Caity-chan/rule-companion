@@ -1,7 +1,8 @@
 const fs = require('fs');
 module.exports = {
 	name: 'servers',
-	description: 'servers!',
+  usage: '`rcc.servers`',
+	description: 'The server that the bot is in + how much servers!',
 	execute(message, args, client) {
       let size = client.guilds.cache.size;
       let arr = client.guilds.cache;

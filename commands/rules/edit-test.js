@@ -2,6 +2,7 @@
 
 module.exports = {
 	name: 'edit',
+  usage: '`rcc.credits`',
 	description: 'edit!',
 	execute(message, args, client) {
     channel = message.channel;

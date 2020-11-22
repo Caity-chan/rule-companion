@@ -1,6 +1,7 @@
 const fs = require('fs');
 module.exports = {
 	name: 'opt-in',
+  usage: '`rcc.credits`',
 	description: 'opt in to announcements!',
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {

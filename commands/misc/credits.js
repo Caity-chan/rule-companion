@@ -1,5 +1,6 @@
 module.exports = {
 	name: 'credits',
+  usage: '`rcc.credits`',
 	description: 'credits!',
 	execute(message, args, client) {
     message.channel.send(

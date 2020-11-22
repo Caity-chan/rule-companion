@@ -1,6 +1,7 @@
 const fs = require('fs');
 module.exports = {
 	name: 'first-rule',
+  usage: '`rcc.credits`',
 	description: 'first rule!',
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {

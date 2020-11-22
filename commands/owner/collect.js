@@ -11,10 +11,10 @@ module.exports = {
         users = client.users.cache;
         await users.forEach(user => {
           if(user.bot) {
-            fs.appendFile(`${__dirname}/../../misc/bots.txt`, `\n${user.tag}`, function (err) {
-              if (err) throw err;
-              console.log('Updated!');
-            });
+            //fs.appendFile(`${__dirname}/../../misc/bots.txt`, `\n${user.tag}`, function (err) {
+            //  if (err) throw err;
+            //  console.log('Updated!');
+            //});
           } else {
             fs.appendFile(`${__dirname}/../../misc/users.txt`, `\n${user.tag}`, function (err) {
               if (err) throw err;
@@ -22,7 +22,7 @@ module.exports = {
             });
           }
           
-          wait(10000);
+          wait(500);
         })
       };
       collectuser();

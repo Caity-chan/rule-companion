@@ -1,6 +1,7 @@
 const fs = require('fs');
 module.exports = {
   name: "post",
+  usage: '`rcc.credits`',
   description: "post server rules!",
   execute(message, args, client) {
     const path = `${__dirname}/../../serverrules/${message.guild.id}.txt`;

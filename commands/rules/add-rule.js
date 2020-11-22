@@ -3,7 +3,7 @@ const db = require('quick.db');
 
 module.exports = {
 	name: 'add-rule',
-  usage: 'add-rule <new rule>',
+  usage: '`add-rule <new rule>`',
   category: 'rules',
 	description: 'add rules!',
 	execute(message, args, client) {

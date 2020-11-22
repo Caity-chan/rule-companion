@@ -4,6 +4,7 @@ function wait(ms) {
 }
 module.exports = {
 	name: 'purge',
+  usage: '`rcc.purge <message amount>`',
 	description: 'purge chat!',
 	execute(message, args, client) {
     num = parseInt(args[0]);

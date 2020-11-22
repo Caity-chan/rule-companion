@@ -9,7 +9,7 @@ module.exports = {
     const wc = new db.table('welcomeleavechannels');
     const welc = wc.get(`leave.${member.guild.id}`);
     if (welc === undefined) return;
-    client.channels.cache.get(welc).send(`${member} left!`);
+    client.channels.cache.get(welc).send("`" + member + "`" + "left!");
   }
 };
 

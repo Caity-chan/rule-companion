@@ -4,11 +4,12 @@ const warns = new Datastore('./misc/warns.db');
 const fs = require('fs');
 module.exports = {
 	name: 'read-warns',
+  usage: '`rcc.read-warns <@User or UserID>`',
 	description: "read someone's warns!",
 	execute(message, args, client) {
     warns.loadDatabase()
     const useree = args[0]
-    const user = useree.replace(/!/g, "");
+    const user = useree.replace(/!/g, /</g, />/g, /@/g, "");
     const warningsliced = message.content.split(' ').slice(2);
     const warnse = []
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {

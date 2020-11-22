@@ -3,6 +3,7 @@ const { fibonacci } = require(`${__dirname}/../../utilities/math-stuff/fibonacci
 
 module.exports = {
 	name: 'fibonacci',
+  usage: '`rcc.credits`',
 	description: 'fibonacci!',
 	execute(message, args, client) {
     if(message.member.hasPermission("ADMINISTRATOR")) {

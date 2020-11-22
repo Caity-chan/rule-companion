@@ -3,11 +3,12 @@ const warns = new Datastore('./misc/warns.db');
 const fs = require('fs');
 module.exports = {
 	name: 'warn',
+  usage: '`rcc.warn <@User or UserID>`',
 	description: 'warn someone!',
 	execute(message, args, client) {
     warns.loadDatabase()
     const useree = args[0]
-    const user = useree.replace(/!/g, "");
+    const user = useree.replace(/!/g, /</g, />/g, /@/g, "");
 
     const warningsliced = message.content.split(' ').slice(2);
     const warnse = []

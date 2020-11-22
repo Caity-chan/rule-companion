@@ -2,6 +2,7 @@ const { numbers, text, binary } = require(`${__dirname}/../../utilities/math-stu
 
 module.exports = {
 	name: 'encode',
+  usage: '`rcc.credits`',
 	description: 'encode!',
 	execute(message, args, client) {
     sentencoded = [];

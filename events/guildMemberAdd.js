@@ -9,6 +9,6 @@ module.exports = {
     const wc = new db.table('welcomeleavechannels');
     const welc = wc.get(`welc.${member.guild.id}`);
     if (welc === undefined) return;
-    client.channels.cache.get(welc).send(`${member} joined!`);
+    client.channels.cache.get(welc).send("`" + member + "`" + "joined!");
   }
 };

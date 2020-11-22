@@ -1390,3 +1390,134 @@ Outcome: `bot.help`>
  [Bot] Ready!
  [Bot] Ready!
  [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] collect <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.the drink shop.member.563980783828860944] permtest <>
+ [Guild.the drink shop.member.563980783828860944] permtest <>
+ [Bot] Ready!
+ [Guild.the drink shop.member.563980783828860944] permtest <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] give-admin <>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] give-admin <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.the drink shop.member.563980783828860944] give-admin <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] give-admin <>
+ [Guild.the drink shop.member.563980783828860944] create-admin <>
+ [Guild.772934771763970051.member.563980783828860944] give-admin <>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] give-admin <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] give-admin <>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] give-admin <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] give-admin <>
+ [Guild.772934771763970051.member.319681510280265732] opt-in <>
+ [Guild.772934771763970051.member.319681510280265732] opt-in <>
+ [Guild.772934771763970051.member.319681510280265732] help <opt>
+ [Guild.772934771763970051.member.563980783828860944] remote-announce <Join this server if you like wholesome and accepting communities, and amazing and nice staff: https://discord.gg/9QEWhy4PtX>
+ [Guild.772934771763970051.member.563980783828860944] remote-announce <-ˏ⑅　‧‧ ⊹ ‧‧ ⊹ ‧‧　⑅ˏ-
+
+ ⓣⓗⓔ ⓓⓡⓘⓝⓚ ⓢⓗⓞⓟ
+
+ 0:30 ─〇─────── 4:01
+
+⠀ ⇄ ◃◃ ⅠⅠ ▹▹ ↻
+
+❝ what would you like to order? ❞
+
+ˏˋ°•*⁀➴: a server based on drinks
+
+☁︎ - simple layout
+
+☁︎ - currency system to buy art
+
+☁︎ - ready to start art trades and art sales
+
+𝕥𝕙𝕒𝕟𝕜 𝕪𝕠𝕦, 𝕚𝕟 𝕒𝕕𝕧𝕒𝕟𝕔𝕖, 𝕗𝕠𝕣 𝕛𝕠𝕚𝕟𝕚𝕟𝕘, 𝕒𝕟𝕕 𝕙𝕒𝕧𝕖 𝕒 𝕘𝕣𝕖𝕒𝕥 𝕕𝕒𝕪
+https://discord.gg/FpgHCbj3rx>
+ [Guild.772934771763970051.member.319681510280265732] welcome-channel <<#772978174677614602>>
+ [Guild.772934771763970051.member.319681510280265732] leave-channel <<#772978174677614602>>
+ [Guild.772934771763970051.member.319681510280265732] remote-invite <>
+ [Guild.772934771763970051.member.319681510280265732] help <>
+ [Guild.772934771763970051.member.319681510280265732] opt-in <>
+ [Guild.772934771763970051.member.319681510280265732] misc <>
+ [Guild.772934771763970051.member.319681510280265732] help <misc>
+ [Guild.772934771763970051.member.319681510280265732] help <moderation>
+ [Guild.772934771763970051.member.319681510280265732] help <server-info>
+ [Guild.772934771763970051.member.319681510280265732] help <>
+ [Guild.772934771763970051.member.319681510280265732] help <server-info>
+ [Guild.772934771763970051.member.319681510280265732] help <moderation>
+ [Guild.772934771763970051.member.319681510280265732] welcome-channel <>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.319681510280265732] help <>
+ [Guild.772934771763970051.member.563980783828860944] help <server-info>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <server>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.319681510280265732] help <>
+ [Guild.772934771763970051.member.319681510280265732] server <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <rules>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <rules>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <owner>
+ [Guild.772934771763970051.member.563980783828860944] help <>
+ [Guild.772934771763970051.member.563980783828860944] hel <Rules>
+ [Guild.772934771763970051.member.563980783828860944] help <misc>
+ [Guild.772934771763970051.member.563980783828860944] help <rules>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <misc>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <misc>
+ [Guild.772934771763970051.member.563980783828860944] help <moderation>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <moderation>
+ [Bot] Ready!

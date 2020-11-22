@@ -2,7 +2,7 @@ const fs = require('fs');
 const db = require('quick.db')
 module.exports = {
 	name: 'add-rule-by-id',
-  usage: 'add-rule-by-id <channel-id> <new rule>',
+  usage: '`add-rule-by-id <channel-id> <new rule>`',
   category: 'rules',
 	description: 'add rules!',
 	execute(message, args, client) {

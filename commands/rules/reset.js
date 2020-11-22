@@ -1,6 +1,7 @@
 const fs = require('fs');
 module.exports = {
 	name: 'reset',
+  usage: '`rcc.credits`',
 	description: 'announce!',
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {

@@ -9,6 +9,7 @@ const ytdl = require('ytdl-core');
 //const fs = require('fs');
 module.exports = {
 	name: 'dl-vid',
+  usage: '`rcc.credits`',
 	description: 'download video!',
 	execute(message, args, client) {
     link = args[0];

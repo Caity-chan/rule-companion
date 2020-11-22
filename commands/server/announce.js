@@ -1,5 +1,6 @@
 module.exports = {
 	name: 'announce',
+  usage: '`rcc.credits`',
 	description: 'announce!',
 	execute(message, args, client) {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
