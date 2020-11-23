@@ -1692,3 +1692,130 @@ https://discord.gg/FpgHCbj3rx>
  [Bot] Joined a new guild: Bots Playground
  [Bot] Ready!
  [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] rules <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] rules <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] post <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] dm-rules <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] first-rule <test1>
+ [Guild.723378144760823830.member.563980783828860944] add-rule <test2>
+ [Guild.723378144760823830.member.563980783828860944] post <>
+ [Guild.723378144760823830.member.563980783828860944] add-rule <test>
+ [Guild.723378144760823830.member.563980783828860944] post <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] reset <>
+ [Guild.723378144760823830.member.563980783828860944] first-rule <test1>
+ [Guild.723378144760823830.member.563980783828860944] add-rule <test2>
+ [Guild.723378144760823830.member.563980783828860944] add-rule <test3>
+ [Guild.723378144760823830.member.563980783828860944] post <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.772934771763970051.member.319681510280265732] help <rules>
+ [Guild.772934771763970051.member.319681510280265732] first-rule <Toxicity is not allowed. Be kind to everyone and respect their opinions>
+ [Guild.772934771763970051.member.319681510280265732] post <>
+ [Guild.772934771763970051.member.319681510280265732] divider-style <ˎˊ˗ˏˋ°•*⁀➴ ☁︎>
+ [Guild.772934771763970051.member.319681510280265732] post <>
+ [Guild.772934771763970051.member.319681510280265732] add-rule <This is a SFW server. NSFW is not allowed, if caught posting NSFW, you will be banned>
+ [Guild.772934771763970051.member.319681510280265732] rule-add <You are allowed to swear, but please censor swear words when you do>
+ [Guild.772934771763970051.member.563980783828860944] dm-rules <>
+ [Guild.772934771763970051.member.319681510280265732] rules-dm <>
+ [Guild.772934771763970051.member.319681510280265732] dm-rules <>
+ [Guild.772934771763970051.member.319681510280265732] add-rule <Stealing art is not allowed, and if you get caught, you'll be banned. If you use a base for adopts or drawing, please credit the original artist>
+ [Guild.772934771763970051.member.319681510280265732] add-rule <No sharing personal information or calling people by their real names unless they allow you to>
+ [Guild.772934771763970051.member.319681510280265732] add-rule <Do not critique other's art unless they ask for it>
+ [Guild.772934771763970051.member.319681510280265732] add-rule <Spam pinging is not allowed, and if caught, you will be kicked>
+ [Guild.772934771763970051.member.319681510280265732] post <>
+ [Guild.772934771763970051.member.319681510280265732] help <rules>
+ [Guild.772934771763970051.member.319681510280265732] dm-rules <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] first-rule <test>
+ [Guild.765786259444072468.member.563980783828860944] reset <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] first-rule <test>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2rcc.add-rule-by-id 780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780495159288004678 test2>
+ [Guild.765786259444072468.member.563980783828860944] post <>
+ [Guild.765786259444072468.member.563980783828860944] reset <>
+ [Guild.765786259444072468.member.563980783828860944] first-rule <Test1>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780502095874490418 Test2>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780502095874490418 Test3>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780502095874490418 Test4>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780502095874490418 Test5>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780502095874490418 Test6>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780502095874490418 Test7>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780502095874490418 Test8>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780502095874490418 Test9>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780502095874490418 Test10>
+ [Guild.765786259444072468.member.563980783828860944] rules-web <>
+ [Guild.765786259444072468.member.563980783828860944] reset <>
+ [Guild.765786259444072468.member.563980783828860944] first-rule <1. No spamming, spam-pinging, using `@everyone`, or `@here`.>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780521058163884032 2. No being toxic or starting drama.>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780521058163884032 3.Only post memes in <#767218360660131861>, and only spam memes in <#767218383870885888>.>
+ [Guild.765786259444072468.member.563980783828860944] reset <>
+ [Guild.765786259444072468.member.563980783828860944] first-rule <1. No spamming, spam-pinging, or using `@everyone` or `@here`.>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780521552143450132 2. No being toxic or starting drama.>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780521552143450132 3. Only post memes in `#memes`, and only spam memes in `#spam-memes`.>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780521552143450132 4. English only in `#general`, any language in `#international-general`.>
+ [Guild.765786259444072468.member.563980783828860944] add-rule-by-id <780521552143450132 5. No swearing, NSFW, inappropriate, profane language/actions or expletives please, this is a family-friendly server.>
+ [Guild.765786259444072468.member.563980783828860944] web-rules <>
+ [Guild.765786259444072468.member.563980783828860944] rules-web <>
+ [Guild.765786259444072468.member.563980783828860944] announce <I've officially moved rule composition to embeds>
+ [Guild.723378144760823830.member.563980783828860944] help <>

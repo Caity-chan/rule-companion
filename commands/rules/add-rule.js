@@ -14,11 +14,12 @@ module.exports = {
       var ees = message.guild.id;
       
       var rule = args.join(' ');
-      divider = div.get(`${message.guild.id}`);
-      if(divider === null) {
-        divider = "";
-      }
-	  	fs.appendFile(`${__dirname}/../../serverrules/${ees}.txt`, `\n${divider} \n${rule}`, function (err) {
+      
+      //divider = div.get(`${message.guild.id}`);
+      //if(divider === null) {
+      //  divider = "";
+      //}
+	  	fs.appendFile(`${__dirname}/../../serverrules/${ees}.txt`, `\n${rule}`, function (err) {
         if (err) throw err;
         console.log('Updated!');
       });
