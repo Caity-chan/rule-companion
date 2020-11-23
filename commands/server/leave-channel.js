@@ -12,11 +12,11 @@ module.exports = {
       const channel = message.channel.id.replace(/!/g, /</g, />/g, /#/, "");
       console.log(channel);
       wc.set(`leave.${message.guild.id}`, `${channel}`);
-      message.channel.send("Successfully set leave message channel to " + message.channel.id + "!")
+      message.channel.send("Successfully set leave message channel to " + `#${message.channel.name}` + "!")
     } else {
       const channel = message.mentions.channels.first().id;
       wc.set(`leave.${message.guild.id}`, `${channel}`);
-      message.channel.send("Successfully set leave message channel to " + channel + "!")
+      message.channel.send("Successfully set leave message channel to " + `#${message.mentions.channels.first().name}` + "!")
     }
     
 	},

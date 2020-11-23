@@ -13,7 +13,11 @@ module.exports = {
 		if (message.member.hasPermission(`ADMINISTRATOR`)) {
       if (num <= 99) { 
         message.channel.bulkDelete(num+1);
-        
+        if (reason === '') {
+          message.channel.send('Purged **' + num + '** messages! `No reason given.`')
+        } else {
+          message.channel.send(`Purged **${num}** messages for \`${reason}\`.`)
+        }
       } else {
         async function deleteMsgs(count) {
           while(count > 0) {

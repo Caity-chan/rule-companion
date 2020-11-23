@@ -14,7 +14,6 @@ module.exports = {
       var ees = message.guild.id;
       
       var rule = args.join(' ');
-      //channel.messages.fetch(args[0]).then(message => message.edit(message.content + `\n${rule}`)).catch(console.error);
       divider = div.get(`${message.guild.id}`);
       if(divider === null) {
         divider = "";

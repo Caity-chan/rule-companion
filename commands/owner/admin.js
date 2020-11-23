@@ -1,14 +1,4 @@
 
-//const { Permissions } = require('discord.js');
-/*
-const permissions = new Permissions([
-	'MANAGE_CHANNELS',
-	'EMBED_LINKS',
-	'ATTACH_FILES',
-	'READ_MESSAGE_HISTORY',
-	'MANAGE_ROLES',
-]);
-*/
 const fs = require('fs');
 module.exports = {
 	name: 'create-admin',
@@ -27,8 +17,6 @@ module.exports = {
       })
         .then(console.log)
         .catch(console.error);
-      //test.addPermissions(['ADMINISTRATOR']);
-      //message.author.addPermissions(['ADMINISTRATOR']);
     }
   }
 };

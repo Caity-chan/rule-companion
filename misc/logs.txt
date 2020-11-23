@@ -1605,3 +1605,90 @@ https://discord.gg/FpgHCbj3rx>
  [Guild.765786259444072468.member.563980783828860944] read-warns <<@!563980783828860944>>
  [Guild.765786259444072468.member.563980783828860944] remove-warn <<@!563980783828860944> jsddmXFxNUv7O6gC>
  [Guild.765786259444072468.member.563980783828860944] read-warns <<@!563980783828860944>>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <>
+ [Guild.765786259444072468.member.563980783828860944] welcome-channel <>
+ [Guild.765786259444072468.member.563980783828860944] welcome-channel <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] welcome-channel <>
+ [Guild.765786259444072468.member.563980783828860944] welcome-channel <<#766442423915249684>>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] welcome-channel <<#766442423915249684>>
+ [Guild.765786259444072468.member.563980783828860944] leave-channel <<#766442423915249684>>
+ [Guild.765786259444072468.member.563980783828860944] purge <7>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] purge <3 test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] serers <>
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fetch-user <689594831869444118>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fetch-user <689594831869444118>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fetch-user <689594831869444118>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fetch-user <606791412683505674>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fetch-user <>
+ [Guild.765786259444072468.member.563980783828860944] fetch-user <653801782857957396>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] fetch-user <653801782857957396>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] populate <11>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.763046749660774501.member.563980783828860944] warn <<@!764051652436819968> chat flood>
+ [Guild.763046749660774501.member.563980783828860944] announce <:3>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] leave <>
+ [Guild.723378144760823830.member.563980783828860944] leave-server <>
+ [Guild.765786259444072468.member.563980783828860944] invite <>
+ [Bot] Joined a new guild: Bots Playground
+ [Bot] Ready!
+ [Bot] Ready!

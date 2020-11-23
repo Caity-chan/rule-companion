@@ -40,6 +40,7 @@ module.exports = {
 	name: 'message',
 	description: 'commands!',
   eventexec(client, message) {
+    
     const commandlist = setCommands(client);
     user = message.author.id
     const prefixes = new db.table('prefixes');
