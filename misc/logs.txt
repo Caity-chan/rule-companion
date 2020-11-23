@@ -1821,3 +1821,11 @@ https://discord.gg/FpgHCbj3rx>
  [Guild.723378144760823830.member.563980783828860944] help <>
  [Bot] Ready!
  [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] dm-rules <>
+ [Guild.772934771763970051.member.563980783828860944] dm-ules <>
+ [Guild.772934771763970051.member.563980783828860944] dm-rules <>
