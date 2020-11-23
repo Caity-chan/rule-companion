@@ -1819,3 +1819,5 @@ https://discord.gg/FpgHCbj3rx>
  [Guild.765786259444072468.member.563980783828860944] rules-web <>
  [Guild.765786259444072468.member.563980783828860944] announce <I've officially moved rule composition to embeds>
  [Guild.723378144760823830.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
