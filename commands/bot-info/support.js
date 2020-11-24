@@ -6,6 +6,6 @@ module.exports = {
 	description: 'an invite to the support server!',
   executableBy: "Members",
 	execute(message, args, client) {
-    message.channel.send('https://discord.gg/SzxychV');
+    message.channel.send('https://discord.gg/RU7yWByvX6');
 	},
 };

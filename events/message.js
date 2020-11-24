@@ -98,7 +98,7 @@ module.exports = {
     //}
   }
   var targs = args.join(' ');
-  fs.appendFile(logpath, `\n [Guild.${guild}.member.${message.author.id}] ${command} <${targs}>`, function (err) {
+  fs.appendFile(logpath, `\n [Guild.${message.guild.id}.member.${message.author.id}] ${command} <${targs}>`, function (err) {
     if (err) throw err;
     console.log('Updated!');
   });

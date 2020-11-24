@@ -20,8 +20,8 @@ module.exports = {
       //}${rule}
       channel.messages.fetch(args[0]).then(message => console.log(message.embeds[0].fields)).catch(console.error);
       channel.messages.fetch(args[0]).then(message => message.edit(message.embeds[0].addFields(
-          { name: rule
-          , value: divider }
+          { name: divider
+          , value: rule }
         ))).catch(console.error);
 	  	fs.appendFile(`${__dirname}/../../serverrules/${ees}.txt`, `\n${rule}`, function (err) {
         if (err) throw err;

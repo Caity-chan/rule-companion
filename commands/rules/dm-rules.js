@@ -22,8 +22,8 @@ module.exports = {
     rules.forEach(rule=>{
       Rules.addFields(
           {
-            name: rule,
-            value: divider
+            name: divider,
+            value: rule
           }
         )
     })
