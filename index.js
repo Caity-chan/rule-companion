@@ -15,7 +15,8 @@ const commandlist = setCommands(client);
 console.log(commandlist);
 
 const { setEvents } = require('./utilities/events.js');
-const eventlist = setEvents(client);
+//const eventlist = 
+setEvents(client);
 //console.log(eventlist);
 client.login(token);
 keepAlive();

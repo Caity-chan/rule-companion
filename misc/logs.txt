@@ -2199,3 +2199,119 @@ https://discord.gg/FpgHCbj3rx>
  [Guild.723378144760823830.member.563980783828860944] kick <@everyone>
  [Guild.774729148357804093.member.563980783828860944] channels <>
  [Guild.765786259444072468.member.563980783828860944] fetch <780946331190951946>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] testapi <this>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] testapi <this is a test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] testapi <this is a test>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] testapi <this is a test>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <moderation>
+ [Guild.765786259444072468.member.563980783828860944] help <moderation>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Joined a new guild: chill pill
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.772934771763970051.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.@me.member.563980783828860944] help <>
+ [Guild.@me.member.563980783828860944] help <>
+ [Guild.@me.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.@me.member.541087768592252938] help <>
+ [Guild.@me.member.541087768592252938] help <server>

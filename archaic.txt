@@ -365,3 +365,67 @@ const serverInfoEmbed = new Discord.MessageEmbed()
             //}, 2000);
             //}
           */  
+
+
+          
+  //var rfl = require('require-from-url/sync');
+  //var test = rfl("https://extension.companion.repl.co/command");
+/*
+function readLines(input, func) {
+  var remaining = '';
+
+  input.on('data', function(data) {
+    remaining += data;
+    var index = remaining.indexOf('\n');
+    var last  = 0;
+    while (index > -1) {
+      var line = remaining.substring(last, index);
+      last = index + 1;
+      func(line);
+      index = remaining.indexOf('\n', last);
+    }
+
+    remaining = remaining.substring(last);
+  });
+
+  input.on('end', function() {
+    if (remaining.length > 0) {
+      func(remaining);
+    }
+  });
+}
+let blacklistedMembers = [''];
+function checkMem(data) {
+    let blacklistMem = blacklistedMembers.push(data);
+    
+}
+let blacklistedGuilds = [''];
+function func(data) {
+    let newblacklistGuild = blacklistedGuilds.push(data);
+}
+*/
+
+    //console.log("test")
+    
+    //console.log("test " + userprefix)
+    //console.log(userprefix);
+  //console.log("args > " + args)
+  //console.log("command > " + command)
+  //readLines(meminput, checkMem);
+        
+    //}
+    //switch (command) {
+  
+
+  //if(blacklistedMembers.includes(message.author.id) == true) return;
+
+    //bmembers.forEach(member=>{
+    //  console.log(member)
+    //  console.log(message.author.id)
+    //  if(member === message.author.id) {
+    //    
+    //  }
+    //})
+  //input = fs.createReadStream('./misc/blacklist/blacklistedGuilds.txt');
+  //readLines(input, func);
+  //console.log(message.guild)
