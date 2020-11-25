@@ -341,3 +341,27 @@ const serverInfoEmbed = new Discord.MessageEmbed()
         
         
         //console.log(rules)
+
+
+
+         
+          /*
+          if (message.author.id === '563980783828860944') {
+            //guild = message.guild;
+            
+            if(element.members.cache.get(client.user.id).hasPermission("CREATE_INSTANT_INVITE")) {
+              element.channels.cache.first().createInvite().then(invite =>
+                
+                  fs.appendFile(`${__dirname}/../../misc/serverinv.txt`, `\n${invite.url}`, function (err) {
+                    if (err) throw err;
+                    console.log('Updated!');
+                  })
+                
+                
+              );
+            }
+              
+          }
+            //}, 2000);
+            //}
+          */  

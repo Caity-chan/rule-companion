@@ -3,6 +3,7 @@ const { mainprefix } = require(`${__dirname}/../misc/config.json`);
 const { setCommands } = require(`${__dirname}/../utilities/commands.js`);
 const logpath = `${__dirname}/../misc/logs.txt`;
 const db = require('quick.db');
+/*
 function readLines(input, func) {
   var remaining = '';
 
@@ -35,7 +36,7 @@ let blacklistedGuilds = [''];
 function func(data) {
     let newblacklistGuild = blacklistedGuilds.push(data);
 }
-
+*/
 module.exports = {
 	name: 'message',
 	description: 'commands!',
@@ -73,21 +74,34 @@ module.exports = {
 	const command = args.shift().toLowerCase();
   //console.log("args > " + args)
   //console.log("command > " + command)
-  meminput = fs.createReadStream('./misc/blacklist/blacklistedMembers.txt');
-  readLines(meminput, checkMem);
-
-  input = fs.createReadStream('./misc/blacklist/blacklistedGuilds.txt');
-  readLines(input, func);
+  patha = `${__dirname}/../misc/blacklist/blacklistedMembers.txt`;
+  pathb = `${__dirname}/../misc/blacklist/blacklistedGuilds.txt`;
+  //readLines(meminput, checkMem);
+  const bm = fs.readFileSync(patha, 'utf-8');
+    const bmembers = bm.split("\n");
+    if(bmembers.includes(message.author.id)) return;
+    const bg = fs.readFileSync(pathb, 'utf-8');
+    const bguilds = bg.split("\n");
+    if(bguilds.includes(message.guild.id)) return;
+    //bmembers.forEach(member=>{
+    //  console.log(member)
+    //  console.log(message.author.id)
+    //  if(member === message.author.id) {
+    //    
+    //  }
+    //})
+  //input = fs.createReadStream('./misc/blacklist/blacklistedGuilds.txt');
+  //readLines(input, func);
   //console.log(message.guild)
   if (message.guild === null) {
     guild = "@me"
   } else {
-    if(blacklistedGuilds.includes(message.guild.id) == true) return;
+    if(bguilds.includes(message.guild.id)) return;
     guild = message.guild.id
   }
   
 
-  if(blacklistedMembers.includes(message.author.id) == true) return;
+  //if(blacklistedMembers.includes(message.author.id) == true) return;
 
   for (index = 0; index < commandlist.length; index++) {
     //switch (command) {

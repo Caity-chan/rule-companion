@@ -2,13 +2,13 @@ const fs = require('fs');
 module.exports = {
   setEvents(client) {
     const eventFiles = fs.readdirSync(`${__dirname}/../events`).filter(file => file.endsWith('.js'));
-    console.log("step 1");
+    //console.log("step 1");
     let eventlist = ['']
     for (const file of eventFiles) {
     	const eventer = require(`${__dirname}/../events/${file}`);
     	client.events.set(eventer.name, eventer);
       eventlist.push(eventer.name);
-      console.log("step 2");
+      co/nsole.log("step 2");
     }
     
     client.events.forEach(function(index) {

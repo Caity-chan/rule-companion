@@ -9,28 +9,18 @@ module.exports = {
       let arr = client.guilds.cache;
       servers = '';
       
-        arr.forEach(element => { 
-          /*
-          if (message.author.id === '563980783828860944') {
-            //guild = message.guild;
-            
-            if(element.members.cache.get(client.user.id).hasPermission("CREATE_INSTANT_INVITE")) {
-              element.channels.cache.first().createInvite().then(invite =>
-                
-                  fs.appendFile(`${__dirname}/../../misc/serverinv.txt`, `\n${invite.url}`, function (err) {
-                    if (err) throw err;
-                    console.log('Updated!');
-                  })
-                
-                
-              );
+        arr.forEach(element => {
+          if (args[0]) {
+            if(args[0].toLowerCase() === "id") {
+              servers = `${servers} \n**${element}** :\n` + "`" + element.id + "`";
+            } else {
+              servers = `${servers} \n${element}`;
             }
-              
+          } else {
+            servers = `${servers} \n${element}`;
           }
-            //}, 2000);
-            //}
-          */  
-          servers = `${servers} \n${element}`;
+          
+          
         });
       
       message.channel.send(servers);
@@ -40,3 +30,4 @@ module.exports = {
 
 
 ///client.users.cache.get('563980783828860944').send(invite.url)
+
