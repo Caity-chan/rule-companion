@@ -7,16 +7,10 @@ const { MessageEmbed } = require('discord.js');
 
 
 const client = new Discord.Client();
-client.commands = new Discord.Collection();
-client.events = new Discord.Collection();
 
-const { setCommands } = require(`./utilities/commands.js`);
-const commandlist = setCommands(client);
-console.log(commandlist);
-
-const { setEvents } = require('./utilities/events.js');
-//const eventlist = 
-setEvents(client);
-//console.log(eventlist);
+const companion = require('little-api-companion');
+client.commandlist = companion.cmdInit(client, "commands");
+companion.evInit(client, "events");
+console.log(client.commandlist);
 client.login(token);
-keepAlive();
+keepAlive(); 

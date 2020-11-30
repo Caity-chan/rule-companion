@@ -2315,3 +2315,158 @@ https://discord.gg/FpgHCbj3rx>
  [Guild.765786259444072468.member.563980783828860944] help <>
  [Guild.@me.member.541087768592252938] help <>
  [Guild.@me.member.541087768592252938] help <server>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] invite <>
+ [Bot] Joined a new guild: Pokemon rp server
+ [Guild.777270928991060040.member.563980783828860944] help <>
+ [Guild.Pokemon rp server.member.563980783828860944] channels <>
+ [Guild.Pokemon rp server.member.563980783828860944] channels <>
+ [Guild.777270928991060040.member.563980783828860944] first-rule <1. No spamming>
+ [Guild.777270928991060040.member.563980783828860944] divider-role <--------------------->
+ [Guild.777270928991060040.member.563980783828860944] post <>
+ [Guild.777270928991060040.member.563980783828860944] post <>
+ [Guild.777270928991060040.member.563980783828860944] divider-style <------------------>
+ [Guild.777270928991060040.member.563980783828860944] post <>
+ [Bot] Ready!
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781277681383112765 2. No NSFW outside of NSFW channels>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781277681383112765 3. Respect admins>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781277681383112765 4. Respect others>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781277681383112765 5. Anybody who posts hate will be banned>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781277681383112765 6. have fun>
+ [Guild.777270928991060040.member.563980783828860944] reset <>
+ [Guild.777270928991060040.member.563980783828860944] first-rule <1. No spamming.>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781278321614258187 2. No NSFW outside of NSFW channels.>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781278321614258187 3. Respect admins.>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781278321614258187 4. Respect others.>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781278321614258187 5. Anybody who posts hate will be banned.>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781278321614258187 6. Have fun!>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781278321614258187 7. If you roleplay a young character don't do anything lewd with them no exceptions its just not okay erp with older characters preferably 18+ in age for Characters.>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781278321614258187 8. Time skips are okay just make sure everybody you're RPing with is okay with it.>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781278321614258187 9. You can play either pokemon or trainer if you so wish.>
+ [Guild.777270928991060040.member.563980783828860944] add-rule-by-id <781278321614258187 10. Don't straight up interrupt somebodies rp at least ask to join it>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.777270928991060040.member.563980783828860944] edit-rule-by-id <781278321614258187 10 tets>
+ [Guild.777270928991060040.member.563980783828860944] edit-rule-by-id <781278321614258187 8 test>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Guild.723378144760823830.member.563980783828860944] help <bot-info>
+ [Guild.723378144760823830.member.563980783828860944] support <>
+ [Guild.723378144760823830.member.563980783828860944] servers <>
+ [Guild.Bots Playground.member.563980783828860944] channels <>
+ [Guild.723378144760823830.member.563980783828860944] purge <4>
+ [Guild.723378144760823830.member.563980783828860944] purge <3>
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Guild.723378144760823830.member.563980783828860944] help <server>
+ [Guild.723378144760823830.member.563980783828860944] member-count <>
+ [Guild.Bots Playground.member.563980783828860944] channels <>
+ [Guild.723378144760823830.member.563980783828860944] servers <>
+ [Guild.777270928991060040.member.563980783828860944] welcome-channel <>
+ [Guild.777270928991060040.member.563980783828860944] leave-channel <>
+ [Guild.765786259444072468.member.563980783828860944] announce <I'm currently making an NPM package API! :D>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] example <command/event handler>
+ [Guild.Giveaways.member.563980783828860944] channels <>
+ [Guild.765786259444072468.member.563980783828860944] purge <10>
+ [Guild.723378144760823830.member.563980783828860944] welcome-channel <>
+ [Guild.723378144760823830.member.563980783828860944] leave-channel <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Joined a new guild: Among Our Friends
+ [Guild.781961679978102815.member.781961136509419531] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.781961679978102815.member.781961136509419531] help <>
+ [Guild.781961679978102815.member.781961136509419531] rules <>
+ [Guild.781961679978102815.member.781961136509419531] rules <>
+ [Guild.781961679978102815.member.781961136509419531] moderation <>
+ [Guild.781961679978102815.member.781961136509419531] help <rules>
+ [Bot] Ready!
+ [Guild.781961679978102815.member.781961136509419531] add <rules web>
+ [Guild.781961679978102815.member.781961136509419531] rules <web>
+ [Guild.781961679978102815.member.781961136509419531] rules-web <>
+ [Bot] Ready!
+ [Guild.781961679978102815.member.781961136509419531] add-rule <Please do not fight.>
+ [Guild.781961679978102815.member.781961136509419531] help <server>
+ [Guild.781961679978102815.member.781961136509419531] member-count <>
+ [Guild.781961679978102815.member.781961136509419531] welcome-channel <>
+ [Guild.781961679978102815.member.781961136509419531] welcome-message <>
+ [Guild.781961679978102815.member.781961136509419531] welcome-message <>
+ [Guild.781961679978102815.member.781961136509419531] welcome-channel <>
+ [Guild.781961679978102815.member.781961136509419531] welcome-channel <>
+ [Guild.781961679978102815.member.781961136509419531] welcome-channel <>
+ [Guild.781961679978102815.member.781961136509419531] channel <>
+ [Guild.Among Our Friends.member.781961136509419531] channels <>
+ [Guild.781961679978102815.member.781961136509419531] help <owner>
+ [Guild.781961679978102815.member.781961136509419531] help <owner>
+ [Guild.781961679978102815.member.781961136509419531] help <Moderation>
+ [Guild.781961679978102815.member.781961136509419531] help <Owner>
+ [Guild.781961679978102815.member.781961136509419531] help <bot-info>
+ [Guild.781961679978102815.member.781961136509419531] user-prefix <ru*>
+ [Guild.781961679978102815.member.781961136509419531] owner <>
+ [Guild.781961679978102815.member.781961136509419531] owner <>
+ [Guild.781961679978102815.member.781961136509419531] divider-style <>
+ [Bot] Joined a new guild: ROCI_flo 1
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.756188519428259950.member.519616545287176234] help <>
+ [Guild.756188519428259950.member.519616545287176234] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <bot-info>
+ [Bot] Ready!
+ [Bot] Joined a new guild: Anjo Gamer
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!

@@ -19,8 +19,8 @@ module.exports = {
 
           ,
 
-          { name: args.join(' '),
-          value: divider }
+          { name: divider,
+          value: args.join(' ') }
         );
       message.channel.send(Rules);
 	  	fs.appendFile(`${__dirname}/../../serverrules/${ees}.txt`, args.join(' '), function (err) {

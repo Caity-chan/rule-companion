@@ -429,3 +429,16 @@ function func(data) {
   //input = fs.createReadStream('./misc/blacklist/blacklistedGuilds.txt');
   //readLines(input, func);
   //console.log(message.guild)
+
+
+
+  if(bot.accessableby.get(commandfile) === "Administrator" || bot.accessableby.get)bot.aliases.get(cmd))) {
+      if (!message.member.hasPermission(`ADMINISTRATOR`)) return;
+    }
+
+    , 'accessableby'
+
+
+        <form action="" method="post">
+    <input type="submit" name="upvote" value="Upvote" />
+    </form>

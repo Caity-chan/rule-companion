@@ -1,4 +1,4 @@
-const { setCommands } = require(`${__dirname}/../../utilities/commands.js`);
+//const { setCommands } = require(`${__dirname}/../../utilities/commands.js`);
 
 const fs = require('fs');
 module.exports = {
