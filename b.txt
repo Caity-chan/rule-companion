@@ -1,0 +1,12 @@
+
+arr.forEach(element => {
+    if (args[0]) {
+    if(args[0].toLowerCase() === "id") {
+        servers = `${servers} \n**${element}** :\n` + "`" + element.id + "`";
+    } else {
+        servers = `${servers} \n${element}`;
+    }
+    } else {
+        servers = `${servers} \n${element}`;
+    }
+});

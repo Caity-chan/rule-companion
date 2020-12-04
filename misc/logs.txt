@@ -2470,3 +2470,87 @@ https://discord.gg/FpgHCbj3rx>
  [Bot] Ready!
  [Bot] Ready!
  [Bot] Ready!
+ [Guild.Bots Playground.member.563980783828860944] kick <<@!752346510523629669>>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] merge <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] purge <300>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
