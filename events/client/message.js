@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { mainprefix } = require(`${__dirname}/../../misc/config.json`);
+const mainprefix = process.env.MAINPREFIX;
 //const { setCommands } = require(`${__dirname}/../../utilities/commands.js`);
 const logpath = `${__dirname}/../../misc/logs.txt`;
 const db = require('quick.db');

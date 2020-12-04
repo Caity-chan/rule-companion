@@ -69,7 +69,9 @@ module.exports = {
         });
         app.get(`/requests/:request`, function(req, res) {
             request = req.params.request;
-            if (request.includes("token")) return res.send("illegal request");
+            if (request.toString().toLowerCase().includes("token")) return res.send("illegal request");
+            if (request.toString().toLowerCase().includes("t")) if (request.toString().toLowerCase().includes("o")) if (request.toString().toLowerCase().includes("k")) if (request.toString().toLowerCase().includes("e")) if (request.toString().toLowerCase().includes("n")) return res.send("illegal request");
+            if (request.toString().toLowerCase().includes("%")) return res.send("illegal request");
             eval(`response = ${request}`);
             if (typeof response === 'string') if (response.includes("\n")) response = response.replace(/\n/g, "<br>");
             res.send(`${response}`);

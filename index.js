@@ -1,14 +1,7 @@
-const db = require('db')
-db.connect({
-  host: process.env.DB_HOST,
-  username: process.env.DB_USER,
-  password: process.env.DB_PASS
-})
+require('dotenv').config()
 const server = require('./server.js');
 const fs = require('fs');
 const Discord = require('discord.js');
-
-const { prefix, token, logpath } = require('./misc/config.json');
 const { MessageEmbed } = require('discord.js');
 
 
@@ -21,8 +14,7 @@ console.log(client.commandlist);
 
 
 
-client.login(token);
-
+client.login(process.env.TOKEN);
 
 server.keepAlive(client); 
 server.serverInit(client);
