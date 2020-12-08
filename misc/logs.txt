@@ -2568,3 +2568,425 @@ https://discord.gg/FpgHCbj3rx>
  [Bot] Ready!
  [Bot] Ready!
  [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.723378144760823830.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] delete-url <companion>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <commands/owner/post.js>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] reload-commands <${__dirname}/post.js>
+ [Guild.765786259444072468.member.563980783828860944] reload-commands <${__dirname}/post.js>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <commands/owner/post.js>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <commands/owner/post.js>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <commands/owner/post.js>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <commands/owner/post.js>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <commands/owner/post.js>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] rl <commands>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] rl <events>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] web-post <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] rl <events>
+ [Guild.765786259444072468.member.563980783828860944] rl <events>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] rl <events>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] rl <events>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] rl <events>
+ [Guild.765786259444072468.member.563980783828860944] rl <events>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] reload <events>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Guild.765786259444072468.member.563980783828860944] rl-events <>
+ [Guild.765786259444072468.member.563980783828860944] rl <events>
+ [Guild.765786259444072468.member.563980783828860944] help <>
+ [Bot] Ready!
+ [Bot] Joined a new guild: Space106's server
+ [Guild.765786259444072468.member.563980783828860944] servers <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] divider-style <-------------------->
+ [Guild.765786259444072468.member.563980783828860944] first-rule <This is a test>
+ [Guild.765786259444072468.member.563980783828860944] rl-commands <>
+ [Guild.765786259444072468.member.563980783828860944] rl <commands>
+ [Guild.765786259444072468.member.563980783828860944] rl <commands>
+ [Guild.765786259444072468.member.563980783828860944] ev <return message.channel.send("test)>
+ [Guild.765786259444072468.member.563980783828860944] rl <commands>
+ [Bot] Ready!
+ [Guild.765786259444072468.member.563980783828860944] ev <message.channel.send("test")>
+ [Guild.765786259444072468.member.563980783828860944] ev <```js
+message.channel.send("test")
+```>
+ [Guild.765786259444072468.member.563980783828860944] ev <test = 10;
+message.channel.send(test);>
+ [Guild.765786259444072468.member.563980783828860944] rl <commands>
+ [Guild.765786259444072468.member.563980783828860944] evev <test = 10;
+message.channel.send(test);>
+ [Bot] Joined a new guild: Voxel Fox
+ [Guild.208895639164026880.member.563980783828860944] help <>
+ [Guild.208895639164026880.member.563980783828860944] user-prefix <hello.>
+ [Guild.208895639164026880.member.563980783828860944] help <>
+ [Guild.208895639164026880.member.563980783828860944] help <>
+ [Guild.208895639164026880.member.563980783828860944] user-prefix <<@!766013734278791200>>
+ [Guild.208895639164026880.member.563980783828860944] help <>
+ [Guild.208895639164026880.member.563980783828860944] ev <userprefixes = ["hello.", "test."];
+message = "hello.help";
+for (const prefix of userprefixes) {
+ if (!message.content.toLowerCase().startsWith(prefix)) return;
+}
+message.channel.send("help menu");>
+ [Guild.208895639164026880.member.563980783828860944] ev <userprefixes = ["hello.", "test."];
+message = "hello.help";
+for (const prefix of userprefixes) {
+ if (!message.content.toLowerCase().startsWith(prefix)) return;
+ message.channel.send("help menu");
+}>
+ [Guild.208895639164026880.member.563980783828860944] help <>
+ [Guild.208895639164026880.member.563980783828860944] ev <console.log("test")>
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] ev <console.log("test")>
+ [Guild.208895639164026880.member.563980783828860944] rl <events>
+ [Guild.208895639164026880.member.563980783828860944] help <>
+ [Guild.208895639164026880.member.563980783828860944] ev <test = "test";
+testa = test.splice(3);
+message.channel.send(testa);>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js 
+message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js 
+message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js 
+message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js 
+message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] ev <``js test>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js test
+```>
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js test
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+test = "test, testa";
+testa = test.split(", ");
+return message.channel.send(testa);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+test = "test, testa";
+testa = test.split(", ");
+message.channel.send(testa);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+test = "test, testa";
+testa = test.split(", ");
+message.channel.send(`${testa}`);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+test = "Hello, this is a new line, I like to code cool things, yes yes yes";
+testa = test.split(", ");
+message.channel.send(`${testa}`);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+test = "Hello, this is a new line, I like to code cool things, yes yes yes";
+testa = test.split(", ");
+message.channel.send(testa);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+ db = require('quick.db');
+ const sr = new db.table('serverrules');
+ div = sr.set(message.guild.id + "--divider", "-----");
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+ db = require('quick.db');
+ const sr = new db.table('serverrules');
+ div = sr.set(message.guild.id + "--rules", [ test ]);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+ db = require('quick.db');
+ const sr = new db.table('serverrules');
+ div = sr.set(message.guild.id + "--rules", [ "test", "test2" ]);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+ db = require('quick.db');
+ const sr = new db.table('serverrules');
+ srs = sr.get(message.guild.id + "--rules");
+ message.channel.send(srs);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+ db = require('quick.db');
+ const sr = new db.table('serverrules');
+ srs = sr.get(message.guild.id + "--rules");
+ message.author.send(srs);
+```>
+ [Guild.208895639164026880.member.721157188768366652] help <>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] dm-rules <>
+ [Guild.208895639164026880.member.721157188768366652] help <>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+ db = require('quick.db');
+ const sr = new db.table('serverrules');
+ sr.set(message.guild.id + "--divider", "----------");
+```>
+ [Guild.208895639164026880.member.563980783828860944] dm-rules <>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] dm-rules <>
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] web-rules <>
+ [Guild.208895639164026880.member.563980783828860944] rules-web <>
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] rules-web <>
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] rules-web <>
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] rules-web <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] rules-web <>
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] rules-web <>
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] rules-web <>
+ [Bot] Ready!
+ [Bot] Ready!
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+message.channel.send("-bugreport");
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+function myFunc(arg) {
+ console.log(`arg was => ${arg}`);
+}
+
+setTimeout(myFunc, 1500, 'funky');
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+function myFunc(arg) {
+ message.channel.send(`arg was => ${arg}`);
+}
+
+setTimeout(myFunc, 1500, 'funky');
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+times = 5;
+function myFunc(arg) {
+ message.channel.send(`arg was => ${arg}`);
+}
+
+i = 0;
+while (times > i) {
+setTimeout(myFunc, 1500, 'funky');
+i += 1;
+}
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+times = 5;
+function myFunc(arg) {
+ message.channel.send(`arg was => ${arg}`);
+}
+
+i = 0;
+while (times > i) {
+setTimeout(myFunc, i*1500, 'funky');
+i += 1;
+}
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+if (message.author.id === bot.owner.id) message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+if (message.author.id === client.owner.id) message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+if (message.author.id === client.owner) message.channel.send("test");
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+console.log(client.owner);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+console.log(client);
+```>
+ [Guild.208895639164026880.member.563980783828860944] servers <>
+ [Guild.Voxel Fox.member.563980783828860944] channels <>
+ [Guild.Voxel Fox.member.721157188768366652] channels <>
+ [Guild.208895639164026880.member.563980783828860944] rl-commands <>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] channels <>
+ [Bot] Status changed!
+ [Guild.208895639164026880.member.563980783828860944] status <test>
+ [Guild.208895639164026880.member.721157188768366652] help <>
+ [Bot] Status changed!
+ [Guild.208895639164026880.member.563980783828860944] status <rcc.help>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+Member = client.users.fetch("563980783828860944");
+message.channel.send(Member.status);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+Member = message.guild.users.fetch("563980783828860944");
+message.channel.send(Member.status);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+Member = message.guild.user.fetch("563980783828860944");
+message.channel.send(Member.status);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+Member = message.author;
+message.channel.send(Member.status);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(member.status);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(member);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(`${member}`);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(`${member.status}`);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(`${member.id}`);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(`${member.id}`);
+test = client.users.fetch(member.id);
+message.channel.send(test.tag);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(`${member.id}`);
+test = client.users.fetch(member.id);
+message.channel.send(test);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(`${member.id}`);
+test = client.users.fetch(member.id);
+message.channel.send(`${test}`);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(`${member.id}`);
+test = client.users.fetch(member.id);
+message.channel.send(`${test.tag}`);
+```>
+ [Guild.208895639164026880.member.563980783828860944] ev <```js
+member = message.author;
+message.channel.send(`${member.id}`);
+test = client.users.fetch(member.id);
+console.log(`${test}`);
+```>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.782372275558285385] post <brrr>
+ [Guild.208895639164026880.member.563980783828860944] post <>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] post <>
+ [Guild.208895639164026880.member.782372275558285385] post <>
+ [Guild.208895639164026880.member.721157188768366652] post <>
+ [Guild.208895639164026880.member.563980783828860944] rl-commands <>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] first-rule <test>
+ [Guild.208895639164026880.member.563980783828860944] dm-rules <>
+ [Guild.208895639164026880.member.649504819450740737] invite <>
+ [Bot] Joined a new guild: all the discord bots i like
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] rl <commands>
+ [Guild.208895639164026880.member.563980783828860944] invite <>

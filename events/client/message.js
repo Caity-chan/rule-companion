@@ -56,10 +56,10 @@ module.exports = {
         var targs = args.join(' ');
         fs.appendFile(logpath, `\n [Guild.${guild}.member.${message.author.id}] ${command} <${targs}>`, function(err) {
             if (err) throw err;
-            console.log('Updated!');
+            console.log('Command executed successfully!');
         });
         if (guild !== "@me") {
-            message.delete();
+            //message.delete();
         }
 
 

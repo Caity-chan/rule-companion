@@ -30,6 +30,7 @@ module.exports = {
 	name: 'web-post',
 	description: 'post on web!',
 	execute(message, args, client) {
+    /*
     axios
       .post('https://little.companion.repl.co/messages', {
         message: args.join(' ')
@@ -41,5 +42,7 @@ module.exports = {
       .catch(error => {
         console.error(error)
       })
+    */
+    console.log("BOOM");
   }
 }

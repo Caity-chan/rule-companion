@@ -3,16 +3,17 @@ const db = require('quick.db');
 
 
 module.exports = {
-	name: 'divider-style',
-  usage: '`rcc.divider-style <divider>`',
-	description: 'Make your own divider to separate your server rules!',
-  executableBy: "Administrator",
-	execute(message, args, client) {
-    const div = new db.table('dividers');
-    if (message.member.hasPermission(`ADMINISTRATOR`)) {
-      div.set(`${message.guild.id}`, `${args.join(" ")}`);
-    }
-	},
+    name: 'divider-style',
+    usage: '`rcc.divider-style <divider>`',
+    description: 'Make your own divider to separate your server rules!',
+    executableBy: "MANAGE_MESSAGES",
+    execute(message, args, client) {
+        if (message.member.hasPermission(`MANAGE_MESSAGES`)) {
+            const sr = new db.table('serverrules');
+            div = sr.set(message.guild.id + "--divider", args.join(" "));
+        } else {
+            return message.channel.send(`${message.author}` + " You have insufficient permissions! Required permissions: `MANAGE_MESSAGES`")
+        }
+    },
 };
 
-    

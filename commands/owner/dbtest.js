@@ -1,7 +1,7 @@
 module.exports = {
-    name: 'ping',
-    usage: '`rcc.credits`',
-    description: 'Ping!',
+    name: 'dbtest',
+    usage: '`rcc.dbtest`',
+    description: 'dbtest!',
     execute(message, args, client) {
         message.channel.send('Pong Pong.');
     },

@@ -1,6 +1,6 @@
 const db = require('quick.db');
 const traffic = new db.table('traffic');
-
+const companion = require('little-api-companion');
 const fs = require('fs');
 const express = require('express');
 const app = express();
@@ -9,11 +9,14 @@ module.exports = {
         var router = express.Router();
         app.get('/rules/:server', (req, res) => {
             console.log(req.params.server)
-            const path = `./serverrules/${req.params.server}.txt`;
-            const content = fs.readFileSync(path).toString();
-            newcont = content.split("\n");
-            newnewcont = newcont.join("<br>");
-            res.send(newnewcont);
+            const sr = new db.table('serverrules');
+            div = sr.get(req.params.server + "--divider");
+            rules = sr.get(req.params.server + "--rules");
+            rs = "This is the server's rules! <br> Please follow and respect the following rules: <br>" + div;
+            for (const rule of rules) {
+                rs = rs + "<br>" + rule + "<br>" + div;
+            }
+            res.send(rs);
         });
 
         //}
@@ -67,6 +70,7 @@ module.exports = {
         app.get('/', (req, res) => {
             res.send('Your bot is alive!')
         });
+        /*
         app.get(`/requests/:request`, function(req, res) {
             request = req.params.request;
             if (request.toString().toLowerCase().includes("token")) return res.send("illegal request");
@@ -76,10 +80,22 @@ module.exports = {
             if (typeof response === 'string') if (response.includes("\n")) response = response.replace(/\n/g, "<br>");
             res.send(`${response}`);
         })
+        */
         app.listen(3000)
+    },
+    reloadCmd(client, message) {
+        try {
+            companion.cmdInit(client, "commands");
+        } catch (err) {
+            return message.channel.send("```" + err + "```");
+        }
+        
+    },
+    reloadEv(client) {
+        companion.evInit(client, "events");
     }
 }
-        
 
+//odule.exports = reload;
     
 //module.exports = keepAlive;
